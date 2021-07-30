@@ -1,11 +1,7 @@
 ---
-title: "Publications"
 collection: publications
 permalink: /publication/publication.md
 
----
-Publications
----
 
 **[Differential Tracking Across Topical Webpages of Indian News Media](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
 **Yash Vekaria**, Vibhor Agarwal, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis  
