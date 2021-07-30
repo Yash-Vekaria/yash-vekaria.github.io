@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Incoming Ph.D. student in [Computer Science Department](https://cs.ucdavis.edu/) at [University of California, Davis](https://www.ucdavis.edu/). My advisor is Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). I shall be joining his lab Gunrock Breakerspace. 
+I am an Incoming Ph.D. student in [Computer Science Department](https://cs.ucdavis.edu/) at [**University of California, Davis**](https://www.ucdavis.edu/). My advisor is Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I shall be joining his lab Gunrock Breakerspace. 
 
 I completed my Bachelors of Technology in Computer Science from the [LNM Institute of Information Technology](https://www.lnmiit.ac.in/), India. My undergraduate advisor was Professor [Sakthi Balan](http://sakthibalan.in/). I was also co-advised by Dr. [Nicolas Kourtellis](https://www.concordia-h2020.eu/nicolas-kourtellis/) and Professor [Nishanth Sastry](https://www.surrey.ac.uk/people/nishanth-sastry) briefly.
 
