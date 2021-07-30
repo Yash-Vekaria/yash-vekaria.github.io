@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I am an Incoming Ph.D. student in Computer Science at University of California, Davis. My advisor is Professor Zubair Shafiq. I shall be joining his lab Gunrock Breakerspace. I completed my Bachelors of Technology in Computer Science from the LNM Institute of Information Technology, Jaipur, India. Broadly, my research interests include Security, Privacy and Machine Learning. My focus is towards making our web more secure and private with the use of machine learning techniques."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
