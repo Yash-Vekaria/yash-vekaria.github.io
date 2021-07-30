@@ -11,9 +11,9 @@ title                    : "Ph.D. student at University of California, Davis"
 title_separator          : "-"
 name                     : &name "Yash Vekaria"
 description              : &description "I am an Incoming Ph.D. student in Computer Science at University of California, Davis. My advisor is Professor Zubair Shafiq. I shall be joining his lab Gunrock Breakerspace. I completed my Bachelors of Technology in Computer Science from the LNM Institute of Information Technology, Jaipur, India. Broadly, my research interests include Security, Privacy and Machine Learning. My focus is towards making our web more secure and private with the use of machine learning techniques."
-url                      : https://yvekaria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yash-vekaria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yash-Vekaria/yvekaria.github.io"
+repository               : "yash-vekaria.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
