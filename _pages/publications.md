@@ -12,7 +12,7 @@ _13th ACM Web Science Conference (Virtual), 2021_
 
 **[Under the Spotlight: Web Tracking in Indian Partisan News Websites](https://ojs.aaai.org/index.php/ICWSM/article/view/18038)**  
 Vibhor Agarwal, **Yash Vekaria**, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis  
-_15th International AAAI Conference on Web and Social Media (Virtual), 2021_  
+_15th International AAAI Conference on Web and Social Media (ICWSM) (Virtual), 2021_  
 [[PDF](http://academicpages.github.io/files/icwsm21_under_spotlight.pdf)] [[Code](https://github.com/Yash-Vekaria/Web-Tracking-in-Indian-Partisan-News-Websites)] [[Dataset](https://nms.kcl.ac.uk/netsys/datasets/india-tracking/)]
 
 **[A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data](https://link.springer.com/chapter/10.1007%2F978-3-030-75018-3_47)**  
