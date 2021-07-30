@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ph.D. student at University of California, Davis"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yash Vekaria"
+description              : &description "I am an Incoming Ph.D. student in Computer Science at University of California, Davis. My advisor is Professor Zubair Shafiq. I shall be joining his lab Gunrock Breakerspace. I completed my Bachelors of Technology in Computer Science from the LNM Institute of Information Technology, Jaipur, India. Broadly, my research interests include Security, Privacy and Machine Learning. My focus is towards making our web more secure and private with the use of machine learning techniques."
+url                      : https://yvekaria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Yash-Vekaria/yvekaria.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,8 +85,8 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=3&gmla=AJsN-F5V2FZ282ybgGJ7kYxx6Us8hQ_zIpE1gCRgKncYgR_TaS-rB8YT_r9mvpWeZkQvBjCUH3MqT_i8nCOS1LdsvVEM9lzovZaq-6EgLEKRv6EooOZjqH0&user=zoft_JcAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Yash-Vekaria"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yash-vekaria/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "yvekaria"
   vine             :
   weibo            :
   xing             :
