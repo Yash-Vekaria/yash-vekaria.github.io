@@ -1,8 +1,6 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
-author_profile: true
 ---
 
 **[Differential Tracking Across Topical Webpages of Indian News Media](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
