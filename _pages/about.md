@@ -14,7 +14,7 @@ I completed my Bachelors of Technology in Computer Science from the [LNM Institu
 
 Broadly, my research interests include Security, Privacy and Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques. I carry out web-based large-scale Internet measurements to study and improve the dynamics of web.
 
-=======
+
 Updates
 ------
 * **07/16/2021 :** Gave a talk on "Differential Tracking Across Topical Webpages of Indian News Media" as part of the Series "_Tracking the Trackers_" organised by CMLBDA (Centre for Machine Learning and Big Data Analytics) at LNMIIT.
@@ -23,7 +23,7 @@ Updates
 * **03/16/2021 :** Paper "_Under the Spotlight: Web Tracking in Indian Partisan News Websites_" Accepted at <ins>15th AAAI ICWSM 2021</ins>.
 * **03/13/2021 :** Poster "_A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data_" Accepted at <ins>15th RCIS 2021</ins>.
 
-=======
+
 Selected Publications
 ------
 
