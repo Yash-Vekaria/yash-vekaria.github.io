@@ -1,12 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "Publications"
 collection: publications
 permalink: /publication/publication.md
-excerpt: 
-date: 
-venue: 
-paperurl: 
-citation:
 
 ---
 Publications
