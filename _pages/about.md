@@ -8,27 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am an Incoming Ph.D. student in [Computer Science Department](https://cs.ucdavis.edu/) at [University of California, Davis](https://www.ucdavis.edu/). My advisor is Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). I shall be joining his lab Gunrock Breakerspace. I completed my Bachelors of Technology in Computer Science from the [LNM Institute of Information Technology](https://www.lnmiit.ac.in/), Jaipur, India. Broadly, my research interests include Security, Privacy and Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques.
+I am an Incoming Ph.D. student in [Computer Science Department](https://cs.ucdavis.edu/) at [University of California, Davis](https://www.ucdavis.edu/). My advisor is Professor [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/). I shall be joining his lab Gunrock Breakerspace. 
 
-A data-driven personal website
+I completed my Bachelors of Technology in Computer Science from the [LNM Institute of Information Technology](https://www.lnmiit.ac.in/), India. My undergraduate advisor was Professor [Sakthi Balan](http://sakthibalan.in/). I was also co-advised by [Dr. Nicolas Kourtellis](https://www.concordia-h2020.eu/nicolas-kourtellis/) and Professor [Nishanth Sastry](https://www.surrey.ac.uk/people/nishanth-sastry) briefly.
+
+Broadly, my research interests include Security, Privacy and Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques. I carry out web-based large-scale Internet measurements to study and improve the dynamics of web.
+
 ======
 
-Getting started
+Updates
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* 07/16/2021 : Gave a talk on "Differential Tracking Across Topical Webpages of Indian News Media" as part of the Series "_Tracking the Trackers_" organised by CMLBDA (Centre for Machine Learning and Big Data Analytics) at LNMIIT.
+* 06/21/2021 : Presented my work in Paper Session 7: _Web Tracking and Internet Accessibility_ at Web Sci 2021.
+* 04/13/2021 : Paper "_Differential Tracking Across Topical Webpages of Indian News Media_" Accepted at 13th ACM Web Sci 2021.
+* 03/16/2021 : Paper "_Under the Spotlight: Web Tracking in Indian Partisan News Websites_" Accepted at 15th AAAI ICWSM 2021.
+* 03/13/2021 : Poster "_A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data_" Accepted at 15th RCIS 2021.
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info.
