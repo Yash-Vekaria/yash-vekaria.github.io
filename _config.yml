@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ph.D. student at University of California, Davis"
 title_separator          : "-"
 name                     : &name "Yash Vekaria"
-description              : &description "I am an Incoming Ph.D. student in Computer Science at University of California, Davis. My advisor is Professor Zubair Shafiq. I shall be joining his lab Gunrock Breakerspace. I completed my Bachelors of Technology in Computer Science from the LNM Institute of Information Technology, Jaipur, India. Broadly, my research interests include Security, Privacy and Machine Learning. My focus is towards making our web more secure and private with the use of machine learning techniques."
+description              : &description "Research Assistant at University of California, Davis"
 url                      : https://yash-vekaria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yash-vekaria.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. student at University of California, Davis"
+  location         : "Davis, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=3&gmla=AJsN-F5V2FZ282ybgGJ7kYxx6Us8hQ_zIpE1gCRgKncYgR_TaS-rB8YT_r9mvpWeZkQvBjCUH3MqT_i8nCOS1LdsvVEM9lzovZaq-6EgLEKRv6EooOZjqH0&user=zoft_JcAAAAJ"
