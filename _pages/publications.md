@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "Publications"
+Publications
 ---
 
 **[Differential Tracking Across Topical Webpages of Indian News Media](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
@@ -12,13 +11,3 @@ _13th ACM Web Science Conference (Virtual), 2021_
 Vibhor Agarwal, **Yash Vekaria**, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis  
 _15th International AAAI Conference on Web and Social Media (Virtual), 2021_  
 [[PDF](http://academicpages.github.io/files/icwsm21_under_spotlight.pdf)] [[Code](https://github.com/Yash-Vekaria/Web-Tracking-in-Indian-Partisan-News-Websites)] [[Dataset](https://nms.kcl.ac.uk/netsys/datasets/india-tracking/)]
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
