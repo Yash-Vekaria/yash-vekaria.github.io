@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 **[Differential Tracking Across Topical Webpages of Indian News Media](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
 **Yash Vekaria**, Vibhor Agarwal, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis  
 _13th ACM Web Science Conference (Virtual), 2021_  
