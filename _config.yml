@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ph.D. student at University of California, Davis"
+title                    : "University of California, Davis"
 title_separator          : "-"
 name                     : &name "Yash Vekaria"
 description              : &description "Research Assistant at University of California, Davis"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Yash-Vekaria"
+  github           : "Yash-Vekaria"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yash-vekaria/"
+  linkedin         : "yash-vekaria"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yvekaria"
+  twitter          : "vekariayash"
   vine             :
   weibo            :
   xing             :
