@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<embed src="yash_vekaria_cv.pdf" width="800px" height="2100px" />
+<embed src="yash-vekaria.github.io/_pages/yash_vekaria_cv.pdf" width="800px" height="2100px" />
 
 
 
