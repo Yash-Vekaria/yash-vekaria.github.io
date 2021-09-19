@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/yash_vekaria_cv.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
