@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="path_to_file" download="yash_vekaria_cv.pdf">Download</a>
+<a href="../yash_vekaria_cv.pdf" download="yash_vekaria_cv.pdf">Download</a>
