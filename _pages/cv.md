@@ -3,11 +3,11 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-<!-- redirect_from:
-  - /resume -->
+redirect_from:
+  - /resume
 ---
 
-<embed src="/_pages/yash_vekaria_cv.pdf" width="800px" height="1000px" />
+<embed src="http://yash-vekaria.github.io/files/yash_vekaria_cv.pdf" width="800px" height="1000px" />
 
 
 
