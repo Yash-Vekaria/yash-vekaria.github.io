@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /cv/yash_vekaria_cv.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="../yash_vekaria_cv.pdf" download="yash_vekaria_cv.pdf">Download</a>
+<a href="/_pages/yash_vekaria_cv.pdf" download="yash_vekaria_cv.pdf">Download</a>
