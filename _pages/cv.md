@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<img width="15" height="25" alt="Screen Shot 2021-09-19 at 12 40 38 AM" src="https://user-images.githubusercontent.com/30694521/133919543-f62f777e-2881-404b-a8bb-a99ce33fc760.png">
+<img width="150" height="250" alt="Screen Shot 2021-09-19 at 12 40 38 AM" src="https://user-images.githubusercontent.com/30694521/133919543-f62f777e-2881-404b-a8bb-a99ce33fc760.png">
 
 [Open the CV](http://yash-vekaria.github.io/files/yash_vekaria_cv.pdf)
