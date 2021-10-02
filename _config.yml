@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yash Vekaria"
+  name             : "Ph.D. student at University of California, Davis" #"Yash Vekaria"
   avatar           : "myphoto.JPG" #"IMG_9929 - Copy.JPG"
-  bio              : "Ph.D. student at University of California, Davis"
+  bio              : #"Ph.D. student at University of California, Davis"
   location         : "Davis, California"
   employer         :
   pubmed           : 
