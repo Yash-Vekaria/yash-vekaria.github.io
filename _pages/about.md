@@ -17,7 +17,7 @@ Broadly, my research interests include Security, Privacy and Machine Learning. M
 
 Updates
 ------
-* **11/03/2021 :** Attending ProperData Symposium at <ins>UC Irvine</ins>.
+* **11/03/2021 :** Attended ProperData Symposium at <ins>UC Irvine</ins>.
 * **09/22/2021 :** Started my Ph.D. at <ins>UC Davis</ins>.
 * **07/16/2021 :** Gave a talk on "Differential Tracking Across Topical Webpages of Indian News Media" as part of the Series "_Tracking the Trackers_" organised by CMLBDA (Centre for Machine Learning and Big Data Analytics) at <ins>LNMIIT</ins>.
 * **06/21/2021 :** Presented my work in Paper Session 7: _Web Tracking and Internet Accessibility_ at <ins>Web Sci 2021</ins>.
