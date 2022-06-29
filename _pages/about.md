@@ -21,7 +21,7 @@ Updates
 * **14/06/2022 :** Started my Summer Internship at <ins>Max Planck Institute for Informatics (MPI-INF), Germany</ins> under <ins>Prof. Savvas Zannettou</ins>.
 * **16/05/2022 :** Attended ACM WiSec'22 at San Antonio.
 * **10/05/2022 :** Received Travel Grant to Attend <ins>The 22nd Privacy Enhancing Technologies Symposium (PETS 2022)</ins>.
-* **04/19/2022 :** Selected for Student Travel Grant Award to Attend <ins>15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2022)</ins>.
+* **04/19/2022 :** Received Travel Grant to Attend <ins>15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2022)</ins>.
 * **11/03/2021 :** Attended ProperData Symposium at <ins>UC Irvine</ins>.
 * **09/22/2021 :** Started my Ph.D. at <ins>UC Davis</ins>.
 * **07/16/2021 :** Gave a talk on "Differential Tracking Across Topical Webpages of Indian News Media" as part of the Series "_Tracking the Trackers_" organised by CMLBDA (Centre for Machine Learning and Big Data Analytics) at <ins>LNMIIT</ins>.
