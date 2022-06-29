@@ -27,7 +27,7 @@ Updates
 * **07/16/2021 :** Gave a talk on "Differential Tracking Across Topical Webpages of Indian News Media" as part of the Series "_Tracking the Trackers_" organised by CMLBDA (Centre for Machine Learning and Big Data Analytics) at <ins>LNMIIT</ins>.
 * **06/21/2021 :** Presented my work in Paper Session 7: _Web Tracking and Internet Accessibility_ at <ins>Web Sci 2021</ins>.
 * **06/17/2021 :** Selected for Scolarship to Attend <ins>34th IEEE CSF Symposium 2021</ins>.
-* **05/20/2021 :** Selected for Student Travel Grant Award to Attend <ins>42nd IEEE Symposium on Security & Privacy 2021</ins>.
+* **05/20/2021 :** Received Student Travel Grant Award to Attend <ins>42nd IEEE Symposium on Security & Privacy 2021</ins>.
 * **04/13/2021 :** Paper "_Differential Tracking Across Topical Webpages of Indian News Media_" Accepted at <ins>13th ACM Web Sci 2021</ins>.
 * **03/16/2021 :** Paper "_Under the Spotlight: Web Tracking in Indian Partisan News Websites_" Accepted at <ins>15th AAAI ICWSM 2021</ins>.
 * **03/13/2021 :** Poster "_A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data_" Accepted at <ins>15th RCIS 2021</ins>.
