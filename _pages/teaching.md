@@ -22,21 +22,21 @@ author_profile: true
 <p></p>
 
 **Teaching Assistant: Data Structures & Algorithms Lab**\
-<ins>The LNM Institute of Information Technology, Jaipur, Spring 2019</ins>\
+<ins>The LNM Institute of Information Technology, Jaipur, Spring 2019</ins>
 
 <p></p>
 <hr>
 <p></p>
 
 **Teaching Assistant: Computer Organization & Architecture Lab**\
-<ins>The LNM Institute of Information Technology, Jaipur, Fall 2018</ins>\
+<ins>The LNM Institute of Information Technology, Jaipur, Fall 2018</ins>
 
 <p></p>
 <hr>
 <p></p>
 
 **Teaching Assistant: Computer Programming Lab**\
-<ins>The LNM Institute of Information Technology, Jaipur, Fall 2017</ins>\
+<ins>The LNM Institute of Information Technology, Jaipur, Fall 2017</ins>
 
 <p></p>
 <hr>
