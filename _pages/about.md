@@ -18,20 +18,20 @@ Broadly, my research interests include Security, Privacy and Machine Learning. M
 Updates
 ------
 
-* **07/11/2022 :** Attended 22nd Privacy Enhancing Technologies Symposium (PETS 2022) at Sydney, Australia.
-* **06/14/2022 :** Started my Summer Internship at <ins>Max Planck Institute for Informatics (MPI-INF), Germany</ins> under <ins>Prof. Savvas Zannettou</ins>.
-* **05/16/2022 :** Attended ACM WiSec'22 at San Antonio, Texas.
-* **05/10/2022 :** Received Travel Grant to Attend <ins>The 22nd Privacy Enhancing Technologies Symposium (PETS 2022)</ins>.
-* **04/19/2022 :** Received Travel Grant to Attend <ins>15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2022)</ins>.
-* **11/03/2021 :** Attended ProperData Symposium at <ins>UC Irvine</ins>.
-* **09/22/2021 :** Started my Ph.D. at <ins>UC Davis</ins>.
-* **07/16/2021 :** Gave a talk on "Differential Tracking Across Topical Webpages of Indian News Media" as part of the Series "_Tracking the Trackers_" organised by CMLBDA (Centre for Machine Learning and Big Data Analytics) at <ins>LNMIIT</ins>.
-* **06/21/2021 :** Presented my work in Paper Session 7: _Web Tracking and Internet Accessibility_ at <ins>Web Sci 2021</ins>.
-* **06/17/2021 :** Selected for Scolarship to Attend <ins>34th IEEE CSF Symposium 2021</ins>.
-* **05/20/2021 :** Received Student Travel Grant Award to Attend <ins>42nd IEEE Symposium on Security & Privacy 2021</ins>.
-* **04/13/2021 :** Paper "_Differential Tracking Across Topical Webpages of Indian News Media_" Accepted at <ins>13th ACM Web Sci 2021</ins>.
-* **03/16/2021 :** Paper "_Under the Spotlight: Web Tracking in Indian Partisan News Websites_" Accepted at <ins>15th AAAI ICWSM 2021</ins>.
-* **03/13/2021 :** Poster "_A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data_" Accepted at <ins>15th RCIS 2021</ins>.
+* **07/11/2022 :** Attended <ins>[PETS 2022](https://petsymposium.org/2022/)</ins> at Sydney, Australia.
+* **06/14/2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
+* **05/16/2022 :** Attended <ins>[15th ACM WiSec 2022](https://wisec2022.cs.utsa.edu)</ins> at San Antonio, Texas.
+* **05/10/2022 :** Received Travel Grant to Attend <ins>[The 22nd Privacy Enhancing Technologies Symposium (PETS 2022)](https://petsymposium.org/2022/)</ins>.
+* **04/19/2022 :** Received Travel Grant to Attend <ins>[15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2022)](https://wisec2022.cs.utsa.edu)</ins>.
+* **11/03/2021 :** Attended <ins>[ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at <ins>[UC Irvine](https://uci.edu)</ins>.
+* **09/22/2021 :** Started my Ph.D. at <ins>[UC Davis](https://www.ucdavis.edu)</ins>.
+* **07/16/2021 :** Gave a talk on "Differential Tracking Across Topical Webpages of Indian News Media" as part of the Series "_Tracking the Trackers_" organised by CMLBDA (Centre for Machine Learning and Big Data Analytics) at <ins>[The LNMIIT](https://www.lnmiit.ac.in)</ins>.
+* **06/21/2021 :** Presented my work in Paper Session 7: _Web Tracking and Internet Accessibility_ at <ins>[Web Sci 2021](https://websci21.webscience.org)</ins>.
+* **06/17/2021 :** Selected for Scolarship to Attend <ins>[34th IEEE CSF Symposium 2021](https://www.ieee-security.org/TC/CSF2021/)</ins>.
+* **05/20/2021 :** Received Student Travel Grant Award to Attend <ins>[42nd IEEE Symposium on Security & Privacy 2021](https://www.ieee-security.org/TC/SP2021/)</ins>.
+* **04/13/2021 :** Paper "_Differential Tracking Across Topical Webpages of Indian News Media_" Accepted at <ins>[13th ACM Web Sci 2021](https://websci21.webscience.org)</ins>.
+* **03/16/2021 :** Paper "_Under the Spotlight: Web Tracking in Indian Partisan News Websites_" Accepted at <ins>[15th AAAI ICWSM 2021](https://www.icwsm.org/2021/)</ins>.
+* **03/13/2021 :** Poster "_A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data_" Accepted at <ins>[15th RCIS 2021](https://www.rcis-conf.com/rcis2021/)</ins>.
 
 
 Selected Publications
