@@ -11,7 +11,7 @@ author_profile: true
 
 **Aug 2021 - Present:**\
 **_[University of California, Davis (UC Davis)(USA)](https://cs.ucdavis.edu)_**\
-<ins>_Graduate Student Researcher (Computer Science Department)_</ins>\
+_Graduate Student Researcher (Computer Science Department)_\
 Advisor: [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)
 
 <p></p>
@@ -20,7 +20,7 @@ Advisor: [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)
 
 **Jun 2022 - Sept 2022:**\
 **_[Max Planck Institute for Informatics (MPI-INF), Saarbrücken (Germany)](https://www.mpi-inf.mpg.de/home/)_**\
-<ins>_Visiting Research Fellow (Internet Architecture (INET) Group)_</ins>\
+_Visiting Research Fellow (Internet Architecture (INET) Group)_\
 Advisor: [Prof. Savvas Zannettou](https://zsavvas.github.io)
 
 <p></p>
@@ -29,7 +29,7 @@ Advisor: [Prof. Savvas Zannettou](https://zsavvas.github.io)
 
 **Jan 2020 - Aug 2021:**\
 **_[Innovaccer Analytics Pvt. Ltd., Noida (India)](https://www.innovaccer.com)_**\
-<ins>_Data Analyst_</ins>
+_Data Analyst_
 
 <p></p>
 <hr>
@@ -37,7 +37,7 @@ Advisor: [Prof. Savvas Zannettou](https://zsavvas.github.io)
 
 **May 2019 - Jul 2019:**\
 **_[Innovaccer Analytics Pvt. Ltd., Noida (India)](https://www.innovaccer.com)_**\
-<ins>_Decision Science Intern_</ins>
+_Decision Science Intern_
 
 <p></p>
 <hr>
@@ -45,7 +45,7 @@ Advisor: [Prof. Savvas Zannettou](https://zsavvas.github.io)
 
 **Dec 2021:**\
 **_[National Ilan University (NIU), Yilan (Taiwan)](https://niu-en.niu.edu.tw/bin/home.php)_**\
-<ins>_Student Exchange AI Intern_</ins>
+_Student Exchange AI Intern_
 
 <p></p>
 <hr>
