@@ -10,18 +10,18 @@ author_profile: true
 <p></p>
 
 **Aug 2021 - Present:**\
-**_[Max Planck Institute for Informatics (MPI-INF), Saarbrücken (Germany)](https://www.mpi-inf.mpg.de/home/)_**\
-<ins>_Visiting Research Fellow (Internet Architecture (INET) Group)_</ins>\
-Advisor: [Prof. Savvas Zannettou](https://zsavvas.github.io)
+**_[University of California, Davis (UC Davis)(USA)](https://cs.ucdavis.edu)_**\
+<ins>_Graduate Student Researcher (Computer Science Department)_</ins>\
+Advisor: [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)
 
 <p></p>
 <hr>
 <p></p>
 
-**Aug 2021 - Present:**\
-**_[University of California, Davis (UC Davis)(USA)](https://cs.ucdavis.edu)_**\
-<ins>_Graduate Student Researcher (Computer Science Department)_</ins>\
-Advisor: [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)
+**Jun 2022 - Sept 2022:**\
+**_[Max Planck Institute for Informatics (MPI-INF), Saarbrücken (Germany)](https://www.mpi-inf.mpg.de/home/)_**\
+<ins>_Visiting Research Fellow (Internet Architecture (INET) Group)_</ins>\
+Advisor: [Prof. Savvas Zannettou](https://zsavvas.github.io)
 
 <p></p>
 <hr>
