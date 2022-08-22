@@ -43,7 +43,7 @@ _Decision Science Intern_
 <hr>
 <p></p>
 
-**Dec 2021:**\
+**Dec 2017:**\
 **_[National Ilan University (NIU), Yilan (Taiwan)](https://niu-en.niu.edu.tw/bin/home.php)_**\
 _Student Exchange AI Intern_
 
