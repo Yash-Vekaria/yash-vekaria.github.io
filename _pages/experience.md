@@ -5,13 +5,26 @@ permalink: /experience/
 author_profile: true
 ---
 
+---
+title: "Presentation Ninja"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
 <p></p>
 <hr>
 <p></p>
 
+````markdown
 **Dec 2021:**\
 **_National Ilan University (NIU), Taiwan_**\
-<ins>_Student Exchange AI Intern_</ins>\
+<ins>_Student Exchange AI Intern_</ins>
+````
 
 <pre>
 <b>Lead Teaching Assistant: Computer Networks (ECS 152A)</b>  
