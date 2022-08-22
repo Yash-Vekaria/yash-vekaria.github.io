@@ -9,9 +9,9 @@ author_profile: true
 <hr>
 <p></p>
 
-**Dec 2021:** 
-**_National Ilan University (NIU), Taiwan_**
-<ins>_Student Exchange AI Intern_</ins>
+**Dec 2021:**\
+**_National Ilan University (NIU), Taiwan_**\
+<ins>_Student Exchange AI Intern_</ins>\
 
 <pre>
 <b>Lead Teaching Assistant: Computer Networks (ECS 152A)</b>  
