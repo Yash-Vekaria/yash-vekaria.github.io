@@ -11,6 +11,7 @@ author_profile: true
 
 **Lead Teaching Assistant: Computer Networks (ECS 152A)**\
 <ins>University of California, Davis, Spring 2022</ins>\
+\
 \> _Conducted Weekly Discussion Sessions and Office Hours_.\
 \> _Designed, Proctored and Graded Quizzes & Exams_.\
 \> _Designed Course Projects_:
