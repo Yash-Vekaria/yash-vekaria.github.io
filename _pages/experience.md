@@ -5,17 +5,6 @@ permalink: /experience/
 author_profile: true
 ---
 
----
-title: "Presentation Ninja"
-output:
-  xaringan::moon_reader:
-    lib_dir: libs
-    nature:
-      highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: false
----
-
 <p></p>
 <hr>
 <p></p>
