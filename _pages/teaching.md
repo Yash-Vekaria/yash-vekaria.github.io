@@ -9,6 +9,18 @@ author_profile: true
 <hr>
 <p></p>
 
+**Lead Teaching Assistant: Computer Networks (ECS 152A)**
+<ins>University of California, Davis, Spring 2022</ins>
+\> Conducted Weekly Discussion Sessions and Office Hours.
+\> Designed, Proctored and Graded Quizzes & Exams.
+\> Designed Course Projects:
+   > [_Project 1_](https://github.com/Yash-Vekaria/HTTPClientServer): _Implementing UDP Ping, UDP Iperf and HTTP Client Server Model_ ([_Project Description_](https://docs.google.com/document/d/1P-p3-W50nj2-XBY3YjoPUNJxugvgHNPYlaPlfa375bk/edit?usp=sharing))
+   > [_Project 2_](https://github.com/Yash-Vekaria/TCPProtocol): _Implementing TCP Protocols using UDP_ ([_Project Description_](https://docs.google.com/document/d/1BoU-GWclEHxUR5ZATwnuPEGvhZM6geCMCPH9eVJvIxg/edit?usp=sharing))
+
+<p></p>
+<hr>
+<p></p>
+
 <pre>
 <b>Lead Teaching Assistant: Computer Networks (ECS 152A)</b>  
 <u><i>University of California, Davis</i>, Spring 2022</u>
