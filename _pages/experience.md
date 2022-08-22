@@ -9,6 +9,8 @@ author_profile: true
 <hr>
 <p></p>
 
+**Dec 2021 :** National Ilan University (NIU), Taiwan
+
 <pre>
 <b>Lead Teaching Assistant: Computer Networks (ECS 152A)</b>  
 <i>University of California, Davis</i>, Spring 2022
