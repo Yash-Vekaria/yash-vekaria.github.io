@@ -37,7 +37,7 @@ Updates
 Selected Publications
 ------
 
-**[The Inventory is Dark and Full of Misinformation: 
+**[The Inventory is Dark and Full of Misinformation: <br>
    Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
 **Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq 
 _(Under Submission), 2022_  
