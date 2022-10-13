@@ -37,6 +37,12 @@ Updates
 Selected Publications
 ------
 
+**[The Inventory is Dark and Full of Misinformation: 
+   Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
+**Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq 
+_(Under Submission), 2022_  
+[[PDF](http://yash-vekaria.github.io/files/websci21_diff_tracking.pdf)] [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
+
 **[Differential Tracking Across Topical Webpages of Indian News Media](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
 **Yash Vekaria**, Vibhor Agarwal, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis  
 _13th ACM Web Science Conference (Virtual), 2021_  
