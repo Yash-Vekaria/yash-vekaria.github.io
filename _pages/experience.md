@@ -19,7 +19,7 @@ Advisor: [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)
 <p></p>
 
 **Jun 2022 - Sept 2022:**\
-**_[Max Planck Institute for Informatics (MPI-INF), Saarbrücken (Germany)](https://www.mpi-inf.mpg.de/home/)_**\
+**_[Max Planck Institute für Informatik (MPI-INF), Saarbrücken (Germany)](https://www.mpi-inf.mpg.de/home/)_**\
 _Visiting Research Fellow (Internet Architecture (INET) Group)_\
 Advisor: [Prof. Savvas Zannettou](https://zsavvas.github.io)
 
