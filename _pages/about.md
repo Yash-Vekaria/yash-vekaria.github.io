@@ -37,10 +37,10 @@ Updates
 Selected Publications
 ------
 
-**[The Inventory is Dark and Full of Misinformation: Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=3&gmla=AJsN-F5V2FZ282ybgGJ7kYxx6Us8hQ_zIpE1gCRgKncYgR_TaS-rB8YT_r9mvpWeZkQvBjCUH3MqT_i8nCOS1LdsvVEM9lzovZaq-6EgLEKRv6EooOZjqH0&user=zoft_JcAAAAJ)**  
+**[The Inventory is Dark and Full of Misinformation: Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain](https://doi.org/10.48550/arXiv.2210.06654)**  
 **Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
 _(Under Submission)_ <br>
-[[PDF](http://yash-vekaria.github.io/files/arxiv_inventory_fraud.pdf)] [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
+[[PDF](http://yash-vekaria.github.io/files/arxiv_inventory_fraud.pdf)] [[Code](https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement)]  [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
 
 **[Differential Tracking Across Topical Webpages of Indian News Media](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
 **Yash Vekaria**, Vibhor Agarwal, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis <br>
