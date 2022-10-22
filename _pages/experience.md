@@ -27,7 +27,7 @@ Advisor: [Prof. Savvas Zannettou](https://zsavvas.github.io)
 <hr>
 <p></p>
 
-**Jan 2020 - Aug 2021:**\
+**Jan 2021 - Aug 2021:**\
 **_[Innovaccer Analytics Pvt. Ltd., Noida (India)](https://www.innovaccer.com)_**\
 _Data Analyst_
 
