@@ -9,7 +9,7 @@ author_profile: true
 <hr>
 <p></p>
 
-**Aug 2021 - Present:**\
+**Sept 2021 - Present:**\
 **_[University of California, Davis (UC Davis) (USA)](https://cs.ucdavis.edu)_**\
 _Graduate Student Researcher (Computer Science Department)_\
 Advisor: [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)
