@@ -9,6 +9,5 @@ redirect_from:
 
 
 <p align="center">
-    [Open the CV](http://yash-vekaria.github.io/files/yash_vekaria_cv.pdf)
-    <img width="800" height="1200" alt="Screen Shot 2021-09-19 at 12 40 38 AM" src="https://user-images.githubusercontent.com/30694521/133919543-f62f777e-2881-404b-a8bb-a99ce33fc760.png">
+    [<img width="800" height="1200" alt="Screen Shot 2021-09-19 at 12 40 38 AM" src="https://user-images.githubusercontent.com/30694521/133919543-f62f777e-2881-404b-a8bb-a99ce33fc760.png">](http://yash-vekaria.github.io/files/yash_vekaria_cv.pdf)
 </p>
