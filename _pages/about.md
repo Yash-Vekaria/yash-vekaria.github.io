@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd Year Ph.D. student in [Computer Science Department](https://cs.ucdavis.edu/) at [**University of California, Davis**](https://www.ucdavis.edu/). My advisor is Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I am working as a Research Assistant in his lab - Breakerspace. I am also part of the [ProperData](https://properdata.eng.uci.edu) Research Group.
+I am a 2nd Year Ph.D. student in Computer Science Department at **University of California, Davis**. I am fortunate to be advised by Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I am working as a Research Assistant in his lab - Breakerspace. I am also part of the [ProperData](https://properdata.eng.uci.edu) Research Group.
 
-I completed my Bachelors of Technology in Computer Science from the [LNM Institute of Information Technology](https://www.lnmiit.ac.in/), India in 2020. My undergraduate advisor was Professor [Sakthi Balan](http://sakthibalan.in/). I was also briefly co-advised by Dr. [Nicolas Kourtellis](https://www.concordia-h2020.eu/nicolas-kourtellis/) and Professor [Nishanth Sastry](https://www.surrey.ac.uk/people/nishanth-sastry).
+I completed my Bachelors of Technology in Computer Science from The LNM Institute of Information Technology, India in 2020. My undergraduate advisor was Professor [Sakthi Balan](http://sakthibalan.in/). I was also briefly co-advised by Dr. [Nicolas Kourtellis](https://www.concordia-h2020.eu/nicolas-kourtellis/) and Professor [Nishanth Sastry](https://www.surrey.ac.uk/people/nishanth-sastry).
 
 Broadly, my research interests include Security, Privacy and Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques. I carry out web-based large-scale Internet measurements to study and improve the dynamics of web. Specifically, my current research is focused at exploring and understanding the online advertisment ecosystem to mitigate ad-fraud.
 
