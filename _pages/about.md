@@ -55,7 +55,7 @@ _15th International AAAI Conference on Web and Social Media (Virtual), 2021_ <br
 [[PDF](http://yash-vekaria.github.io/files/icwsm21_under_spotlight.pdf)] [[Code](https://github.com/Yash-Vekaria/Web-Tracking-in-Indian-Partisan-News-Websites)] [[Dataset](https://nms.kcl.ac.uk/netsys/datasets/india-tracking/)]
 
 
-<p align="center">
-<script id="_waugfr">var _wau = _wau || []; _wau.push(["dynamic", "jfkke6f28r", "gfr", "c4302bffffff", "small"]);</script><script async src="//waust.at/d.js"></script>
+<p align="right">
+<script id="_wauo0t">var _wau = _wau || []; _wau.push(["small", "mbsr9jed4p", "o0t"]);</script><script async src="//waust.at/s.js"></script>
 <!-- <script id="_wauhz9">var _wau = _wau || []; _wau.push(["map", "vgzhvhrdc7", "hz9", "420", "210", "natural", "default-red"]);</script><script async src="//waust.at/m.js"></script> -->
 </p>
