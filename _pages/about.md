@@ -18,7 +18,8 @@ Broadly, my research interests include Security, Privacy and Machine Learning. M
 Updates
 ------
 
-* **11/20/2022 :** Serving on <ins>[ACM WebSci 2023](https://websci23.webscience.org)</ins> Program Committee, consider submitting your work.
+* **11/20/2022 :** Serving on the Program Committee of <ins>[ACM WebSci 2023](https://websci23.webscience.org)</ins>, consider submitting your work.
+* **10/05/2022 :** Attending <ins>[Ad-Filtering Dev Summit](https://adfilteringdevsummit.com)</ins>
 * **07/11/2022 :** Attended <ins>[PETS 2022](https://petsymposium.org/2022/)</ins> at Sydney, Australia.
 * **06/14/2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
 * **05/16/2022 :** Attended <ins>[15th ACM WiSec 2022](https://wisec2022.cs.utsa.edu)</ins> at San Antonio, Texas.
