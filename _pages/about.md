@@ -12,7 +12,7 @@ I am a 2nd Year Ph.D. student in Computer Science Department at **University of 
 
 I completed my Bachelors of Technology in Computer Science from **The LNM Institute of Information Technology, India** in 2020. My undergraduate advisor was Professor [Sakthi Balan](http://sakthibalan.in/). I was also briefly co-advised by Dr. [Nicolas Kourtellis](https://www.concordia-h2020.eu/nicolas-kourtellis/) and Professor [Nishanth Sastry](https://www.surrey.ac.uk/people/nishanth-sastry).
 
-Broadly, my research interests include Security, Privacy and Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques. I carry out web-based large-scale Internet measurements to study and improve the dynamics of web. Specifically, my current research is focused at exploring and understanding the online advertisment ecosystem to mitigate ad-fraud.
+Broadly, my research interests include Security, Privacy and Applied Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques. I carry out web-based large-scale Internet measurements to study and improve the dynamics of web. Specifically, my current research is focused at exploring and understanding the online advertisment ecosystem to mitigate ad-fraud. It excites me to study and uncover issues in the ad-tech supply chain, click-fraud practices and other forms of ad-fraud to build a more private and safe advertising space for everyone.
 
 
 Updates
