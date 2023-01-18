@@ -9,6 +9,6 @@ redirect_from:
 
 <p align="center">
   <a href="http://yash-vekaria.github.io/files/yash_vekaria_cv.pdf">
-    <img width="800" height="1200" alt="Screen Shot 2022-11-08 at 3 11 46 AM" src="https://user-images.githubusercontent.com/30694521/200421461-51089969-e63a-40f9-96df-c30ef9bbefd1.png">
+    <img width="800" height="1200" alt="<img width="602" alt="Screenshot 2023-01-18 at 11 41 05 AM" src="https://user-images.githubusercontent.com/30694521/213278733-564afe87-1799-48ba-8fd3-b9a5fb0c0484.png">
   </a>
 </p>
