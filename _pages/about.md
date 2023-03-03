@@ -18,8 +18,8 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 Updates
 ------
 
-* **03/03/2023 :** Selected as a Mentor for [E-PRIME](https://engineering.ucdavis.edu/e-prime) Mentorship Program at UC Davis.
-* **02/23/2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University ([CSI](https://scp.cc.gatech.edu/csi/)).
+* **03/03/2023 :** Selected as a Mentor for <ins>[E-PRIME](https://engineering.ucdavis.edu/e-prime)<ins> Mentorship Program at UC Davis.
+* **02/23/2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University (<ins>[CSI](https://scp.cc.gatech.edu/csi/)<ins>).
 * **01/18/2023 :** Serving on the Program Committee of <ins>[ACM FAccT 2023](https://facctconference.org/index.html)</ins>.
 * **11/20/2022 :** Serving on the Program Committee of <ins>[ACM WebSci 2023](https://websci23.webscience.org/committee-members/)</ins>.
 * **10/05/2022 :** Attended <ins>[Ad-Filtering Dev Summit](https://adfilteringdevsummit.com)</ins> 2022.
