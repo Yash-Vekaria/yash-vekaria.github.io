@@ -23,7 +23,7 @@ Updates
 * **03/03/2023 :** Selected as a Mentor for <ins>[E-PRIME](https://engineering.ucdavis.edu/e-prime)</ins> Mentorship Program at UC Davis.
 * **02/23/2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University (<ins>[CSI](https://scp.cc.gatech.edu/csi/)</ins>).
 * **01/18/2023 :** Serving on the Program Committee of <ins>[ACM FAccT 2023](https://facctconference.org/index.html)</ins>.
-* **11/20/2022 :** Serving on the Program Committee of <ins>[ACM WebSci 2023](https://websci23.webscience.org/committee-members/)</ins>.
+* **11/20/2022 :** Serving on the Program Committee of <ins>[ACM WebSci 2023](https://websci23.webscience.org/committee-members/)</ins> (co-located with ACM WWW 2023).
 * **10/05/2022 :** Attended <ins>[Ad-Filtering Dev Summit](https://adfilteringdevsummit.com)</ins> 2022.
 * **07/11/2022 :** Attended <ins>[PETS 2022](https://petsymposium.org/2022/)</ins> at Sydney, Australia.
 * **06/14/2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
