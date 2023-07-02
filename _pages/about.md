@@ -18,8 +18,8 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 Updates
 ------
 
-* **05/16/2022 :** Started summer school at <ins>[Cybersecurity Summer Institute](https://scp.cc.gatech.edu/csi/)</ins> (CSI, GeorgiaTech)
-* **05/16/2022 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
+* **05/16/2023 :** Started summer school at <ins>[Cybersecurity Summer Institute](https://scp.cc.gatech.edu/csi/)</ins> (CSI, GeorgiaTech)
+* **05/16/2023 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
 * **03/10/2023 :** Attended day event on <ins>[Responsible Innovation: Intersection of Privacy and Artificial Intelligence](https://cedar.ucdavis.edu/events/california-data-protection-and-privacy-day)</ins> at <ins>[CeDAR](https://cedar.ucdavis.edu/about)</ins>, UC Davis.
 * **03/03/2023 :** Selected as a Mentor for <ins>[E-PRIME](https://engineering.ucdavis.edu/e-prime)</ins> Mentorship Program at UC Davis.
 * **02/23/2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University (<ins>[CSI](https://scp.cc.gatech.edu/csi/)</ins>).
