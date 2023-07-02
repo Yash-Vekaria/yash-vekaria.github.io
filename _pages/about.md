@@ -20,21 +20,18 @@ Updates
 
 * **05/16/2022 :** Started summer school at <ins>[Cybersecurity Summer Institute](https://scp.cc.gatech.edu/csi/)</ins> (CSI, GeorgiaTech)
 * **05/16/2022 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
-* **05/11/2022 :** Received Travel Grant to Attend <ins>[ACM SIGMETRICS 2023](https://www.sigmetrics.org/sigmetrics2023/index.html)</ins>.
-* **03/11/2023 :** Serving on the Artifact Evaluation Committee of <ins>[IEEE WOOT 2023](https://wootconference.org)</ins> (co-located with IEEE S&P 2023).
 * **03/10/2023 :** Attended day event on <ins>[Responsible Innovation: Intersection of Privacy and Artificial Intelligence](https://cedar.ucdavis.edu/events/california-data-protection-and-privacy-day)</ins> at <ins>[CeDAR](https://cedar.ucdavis.edu/about)</ins>, UC Davis.
 * **03/03/2023 :** Selected as a Mentor for <ins>[E-PRIME](https://engineering.ucdavis.edu/e-prime)</ins> Mentorship Program at UC Davis.
 * **02/23/2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University (<ins>[CSI](https://scp.cc.gatech.edu/csi/)</ins>).
-* **01/18/2023 :** Serving on the Program Committee of <ins>[ACM FAccT 2023](https://facctconference.org/index.html)</ins>.
-* **11/20/2022 :** Serving on the Program Committee of <ins>[ACM WebSci 2023](https://websci23.webscience.org/committee-members/)</ins> (co-located with ACM WWW 2023).
 * **10/05/2022 :** Attended <ins>[Ad-Filtering Dev Summit](https://adfilteringdevsummit.com)</ins> 2022.
-* **07/11/2022 :** Attended <ins>[PETS 2022](https://petsymposium.org/2022/)</ins> at Sydney, Australia.
 * **06/14/2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
+* **11/03/2021 :** Attended <ins>[ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at <ins>[UC Irvine](https://uci.edu)</ins>.
+* **09/22/2021 :** Started my Ph.D. at <ins>[UC Davis](https://www.ucdavis.edu)</ins>.
+
+<!--
 * **05/16/2022 :** Attended <ins>[15th ACM WiSec 2022](https://wisec2022.cs.utsa.edu)</ins> at San Antonio, Texas.
 * **05/10/2022 :** Received Travel Grant to Attend <ins>[The 22nd Privacy Enhancing Technologies Symposium (PETS 2022)](https://petsymposium.org/2022/)</ins>.
 * **04/19/2022 :** Received Travel Grant to Attend <ins>[15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2022)](https://wisec2022.cs.utsa.edu)</ins>.
-* **11/03/2021 :** Attended <ins>[ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at <ins>[UC Irvine](https://uci.edu)</ins>.
-* **09/22/2021 :** Started my Ph.D. at <ins>[UC Davis](https://www.ucdavis.edu)</ins>.
 * **07/16/2021 :** Gave a talk on "Differential Tracking Across Topical Webpages of Indian News Media" as part of the Series "_Tracking the Trackers_" organised by CMLBDA (Centre for Machine Learning and Big Data Analytics) at <ins>[The LNMIIT](https://www.lnmiit.ac.in)</ins>.
 * **06/21/2021 :** Presented my work in Paper Session 7: _Web Tracking and Internet Accessibility_ at <ins>[Web Sci 2021](https://websci21.webscience.org)</ins>.
 * **06/17/2021 :** Selected for Scolarship to Attend <ins>[34th IEEE CSF Symposium 2021](https://www.ieee-security.org/TC/CSF2021/)</ins>.
@@ -42,6 +39,12 @@ Updates
 * **04/13/2021 :** Paper "_Differential Tracking Across Topical Webpages of Indian News Media_" Accepted at <ins>[13th ACM Web Sci 2021](https://websci21.webscience.org)</ins>.
 * **03/16/2021 :** Paper "_Under the Spotlight: Web Tracking in Indian Partisan News Websites_" Accepted at <ins>[15th AAAI ICWSM 2021](https://www.icwsm.org/2021/)</ins>.
 * **03/13/2021 :** Poster "_A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data_" Accepted at <ins>[15th RCIS 2021](https://www.rcis-conf.com/rcis2021/)</ins>.
+* **05/11/2022 :** Received Travel Grant to Attend <ins>[ACM SIGMETRICS 2023](https://www.sigmetrics.org/sigmetrics2023/index.html)</ins>.
+* **03/11/2023 :** Serving on the Artifact Evaluation Committee of <ins>[IEEE WOOT 2023](https://wootconference.org)</ins> (co-located with IEEE S&P 2023).
+* **01/18/2023 :** Serving on the Program Committee of <ins>[ACM FAccT 2023](https://facctconference.org/index.html)</ins>.
+* **11/20/2022 :** Serving on the Program Committee of <ins>[ACM WebSci 2023](https://websci23.webscience.org/committee-members/)</ins> (co-located with ACM WWW 2023).
+* **07/11/2022 :** Attended <ins>[PETS 2022](https://petsymposium.org/2022/)</ins> at Sydney, Australia.
+-->
 
 
 Selected Publications
