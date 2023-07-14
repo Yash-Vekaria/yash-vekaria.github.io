@@ -18,6 +18,7 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 Updates
 ------
 
+* **07/10/2023 :** My first PhD paper accepted to IEEE S&P ("Oakland") 2024.
 * **05/16/2023 :** Started summer school at <ins>[Cybersecurity Summer Institute](https://scp.cc.gatech.edu/csi/)</ins> (CSI, GeorgiaTech)
 * **05/16/2023 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
 * **03/10/2023 :** Attended day event on <ins>[Responsible Innovation: Intersection of Privacy and Artificial Intelligence](https://cedar.ucdavis.edu/events/california-data-protection-and-privacy-day)</ins> at <ins>[CeDAR](https://cedar.ucdavis.edu/about)</ins>, UC Davis.
