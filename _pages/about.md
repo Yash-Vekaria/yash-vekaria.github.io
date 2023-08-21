@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd Year Ph.D. student in Computer Science Department at **University of California, Davis**. I am fortunate to be advised by Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I am working as a Research Assistant in his lab - Breakerspace. I am also part of the [ProperData](https://properdata.eng.uci.edu) Research Group.
+I am a 2nd Year Ph.D. student in Computer Science Department at **University of California, Davis**. I am fortunate to be advised by Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I am also part of the [ProperData](https://properdata.eng.uci.edu) Research Group.
 
 I completed my Bachelors of Technology in Computer Science from **The LNM Institute of Information Technology, India** in 2020. My undergraduate advisor was Professor [Sakthi Balan](http://sakthibalan.in/). I was also briefly co-advised by Dr. [Nicolas Kourtellis](https://www.concordia-h2020.eu/nicolas-kourtellis/) and Professor [Nishanth Sastry](https://www.surrey.ac.uk/people/nishanth-sastry).
 
-Broadly, my research interests include Security, Privacy and Applied Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques. I carry out web-based large-scale Internet measurements to study and improve the dynamics of web. Specifically, my current research is focused at exploring and understanding the online advertisment ecosystem to mitigate ad-fraud. It excites me to study and uncover issues in the ad-tech supply chain, click-fraud practices and other forms of ad-fraud to build a more private and safe advertising space for everyone.
+Broadly, my research interests include Security, Privacy and Applied Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques. I carry out web-based large-scale Internet measurements to study and improve the dynamics of web. Specifically, my current research is focused at studying and improving security, transparency, and privacy issues in the online advertising ecosystem. 
+<!-- It excites me to study and uncover issues in the ad-tech supply chain, click-fraud practices and other forms of ad-fraud to build a more private and safe advertising space for everyone. -->
 
 
 Updates
 ------
 
-* **07/10/2023 :** My first PhD paper accepted to IEEE S&P ("Oakland") 2024.
+<!-- * **07/10/2023 :** My first PhD paper accepted to IEEE S&P ("Oakland") 2024. -->
+* **07/10/2023 :** My paper accepted to IEEE S&P ("Oakland") 2024.
 * **05/16/2023 :** Started summer school at <ins>[Cybersecurity Summer Institute](https://scp.cc.gatech.edu/csi/)</ins> (CSI, GeorgiaTech)
 * **05/16/2023 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
 * **03/10/2023 :** Attended day event on <ins>[Responsible Innovation: Intersection of Privacy and Artificial Intelligence](https://cedar.ucdavis.edu/events/california-data-protection-and-privacy-day)</ins> at <ins>[CeDAR](https://cedar.ucdavis.edu/about)</ins>, UC Davis.
