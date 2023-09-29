@@ -10,6 +10,11 @@ author_profile: true
 _Accepted at IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
 [[PDF](http://yash-vekaria.github.io/files/oakland24_dark_pooling.pdf)] [[Code](https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement)]  [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
 
+**[Before Blue Birds Became X-tinct: Understanding the Effect of Regime Change on Twitter’s Advertising and Compliance of Advertising Policies](https://arxiv.org/pdf/2309.12591.pdf)**  
+**Yash Vekaria**, Zubair Shafiq, Savvas Zannettou <br>
+_Under Submission_ <br>
+[[PDF](https://arxiv.org/pdf/2309.12591.pdf)]
+
 **[Differential Tracking Across Topical Webpages of Indian News Media](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
 **Yash Vekaria**, Vibhor Agarwal, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis <br>
 _13th ACM Web Science Conference (Virtual), 2021_ <br>
