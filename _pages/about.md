@@ -30,7 +30,7 @@ Updates
 * **02/23/2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University (<ins>[CSI](https://scp.cc.gatech.edu/csi/)</ins>).
 * **10/05/2022 :** Attended <ins>[Ad-Filtering Dev Summit](https://adfilteringdevsummit.com)</ins> 2022.
 * **06/14/2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
-* **11/03/2021 :** Attended <ins>[ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at UC Irvine.
+* **11/03/2021 :** Attended <ins>[1st ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at UC Irvine.
 * **09/22/2021 :** Started my Ph.D. at <ins>[UC Davis](https://www.ucdavis.edu)</ins>.
 
 <!--
@@ -60,15 +60,10 @@ Selected Publications
 _Accepted at IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
 [[PDF](http://yash-vekaria.github.io/files/oakland24_dark_pooling.pdf)] [[Code](https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement)]  [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
 
-**[Differential Tracking Across Topical Webpages of Indian News Media](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
-**Yash Vekaria**, Vibhor Agarwal, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis <br>
-_13th ACM Web Science Conference (Virtual), 2021_ <br>
-[[PDF](http://yash-vekaria.github.io/files/websci21_diff_tracking.pdf)] [[Code](https://github.com/Yash-Vekaria/Topical-Tracking-Indian-News-Websites)] [[Dataset](https://nms.kcl.ac.uk/netsys/datasets/india-topic/)]
-
-**[Under the Spotlight: Web Tracking in Indian Partisan News Websites](https://ojs.aaai.org/index.php/ICWSM/article/view/18038)**  
-Vibhor Agarwal, **Yash Vekaria**, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis <br>
-_15th International AAAI Conference on Web and Social Media (Virtual), 2021_ <br>
-[[PDF](http://yash-vekaria.github.io/files/icwsm21_under_spotlight.pdf)] [[Code](https://github.com/Yash-Vekaria/Web-Tracking-in-Indian-Partisan-News-Websites)] [[Dataset](https://nms.kcl.ac.uk/netsys/datasets/india-tracking/)]
+**[Before Blue Birds Became X-tinct: Understanding the Effect of Regime Change on Twitter’s Advertising and Compliance of Advertising Policies](https://arxiv.org/pdf/2309.12591.pdf)**  
+**Yash Vekaria**, Zubair Shafiq, Savvas Zannettou <br>
+_Under Submission_ <br>
+[[PDF](https://arxiv.org/pdf/2309.12591.pdf)]
 
 
 <p align="left">
