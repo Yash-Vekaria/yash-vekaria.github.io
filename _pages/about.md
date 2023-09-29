@@ -20,6 +20,8 @@ Updates
 ------
 
 <!-- * **07/10/2023 :** My first PhD paper accepted to IEEE S&P ("Oakland") 2024. -->
+* **09/28/2023 :** My research on "Large-scale Audit of Compliance of Twitter's Advertising Policies" featured in [FastCompany](https://www.fastcompany.com/90959569/elon-musk-x-ignoring-ad-policies) ([Preprint](https://arxiv.org/pdf/2309.12591.pdf)).
+* **09/18/2023 :** Attended <ins>[3rd ProperData Symposium 2023](https://properdata.eng.uci.edu/2023/08/08/properdata-annual-symposium-2023/)</ins> at <ins>Northeastern University</ins>.
 * **07/10/2023 :** My paper accepted to IEEE S&P ("Oakland") 2024.
 * **05/16/2023 :** Started summer school at <ins>[Cybersecurity Summer Institute](https://scp.cc.gatech.edu/csi/)</ins> (CSI, GeorgiaTech)
 * **05/16/2023 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
@@ -28,7 +30,7 @@ Updates
 * **02/23/2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University (<ins>[CSI](https://scp.cc.gatech.edu/csi/)</ins>).
 * **10/05/2022 :** Attended <ins>[Ad-Filtering Dev Summit](https://adfilteringdevsummit.com)</ins> 2022.
 * **06/14/2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
-* **11/03/2021 :** Attended <ins>[ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at <ins>[UC Irvine](https://uci.edu)</ins>.
+* **11/03/2021 :** Attended <ins>[ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at <ins>UC Irvine</ins>.
 * **09/22/2021 :** Started my Ph.D. at <ins>[UC Davis](https://www.ucdavis.edu)</ins>.
 
 <!--
