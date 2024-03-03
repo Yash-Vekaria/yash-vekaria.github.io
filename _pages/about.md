@@ -19,10 +19,10 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 Updates
 ------
 
-* **Mar 1st, 2024 :** Chairing the session on "Program Language Security on the Web" at [MADWeb 2024](https://madweb.work/program24/) in San Diego.
-* **Jan 1st, 2024 :** Serving on PC of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/). Consider submitting your research.
-* **Nov 8th, 2023 :** Serving on PC of [MADWeb 2024](https://madweb.work). Consider submitting your research.
-* **Sep 28th, 2023 :** My research on "Large-scale Audit of Compliance of Twitter's Advertising Policies" featured in [FastCompany](https://www.fastcompany.com/90959569/elon-musk-x-ignoring-ad-policies) ([Preprint](https://arxiv.org/pdf/2309.12591.pdf)).
+* **Mar 1st, 2024 :** Chairing the session on "Program Language Security on the Web" at <ins>[MADWeb 2024](https://madweb.work/program24/)</ins> in San Diego.
+* **Jan 1st, 2024 :** Serving on PC of <ins>[ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/)</ins>. Consider submitting your research.
+* **Nov 8th, 2023 :** Serving on PC of <ins>[MADWeb 2024](https://madweb.work)</ins>. Consider submitting your research.
+* **Sep 28th, 2023 :** My research on "Large-scale Audit of Compliance of Twitter's Advertising Policies" featured in <ins>[FastCompany](https://www.fastcompany.com/90959569/elon-musk-x-ignoring-ad-policies)/<ins> (<ins>[Preprint](https://arxiv.org/pdf/2309.12591.pdf)</ins>).
 * **Sep 18th, 2023 :** Attended <ins>[3rd ProperData Symposium 2023](https://properdata.eng.uci.edu/2023/08/08/properdata-annual-symposium-2023/)</ins> at Northeastern University.
 * **Jul 10th, 2023 :** My paper accepted to IEEE S&P ("Oakland") 2024.
 * **May 16th, 2023 :** Started summer school at <ins>[Cybersecurity Summer Institute](https://scp.cc.gatech.edu/csi/)</ins> (CSI, GeorgiaTech)
