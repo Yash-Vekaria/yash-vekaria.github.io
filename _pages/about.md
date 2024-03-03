@@ -19,7 +19,26 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 Updates
 ------
 
-<!-- * **07/10/2023 :** My first PhD paper accepted to IEEE S&P ("Oakland") 2024. -->
+* **Mar 1st, 2024 :** Chairing the session on "Program Language Security on the Web" at [MADWeb 2024](https://madweb.work/program24/) in San Diego.
+* **Jan 1st, 2024 :** Serving on PC of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/). Consider submitting your research.
+* **Nov 8th, 2023 :** Serving on PC of [MADWeb 2024](https://madweb.work). Consider submitting your research.
+* **Sep 28th, 2023 :** My research on "Large-scale Audit of Compliance of Twitter's Advertising Policies" featured in [FastCompany](https://www.fastcompany.com/90959569/elon-musk-x-ignoring-ad-policies) ([Preprint](https://arxiv.org/pdf/2309.12591.pdf)).
+* **Sep 18th, 2023 :** Attended <ins>[3rd ProperData Symposium 2023](https://properdata.eng.uci.edu/2023/08/08/properdata-annual-symposium-2023/)</ins> at Northeastern University.
+* **Jul 10th, 2023 :** My paper accepted to IEEE S&P ("Oakland") 2024.
+* **May 16th, 2023 :** Started summer school at <ins>[Cybersecurity Summer Institute](https://scp.cc.gatech.edu/csi/)</ins> (CSI, GeorgiaTech)
+* **May 16th, 2023 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
+* **Mar 10th, 2023 :** Attended day event on <ins>[Responsible Innovation: Intersection of Privacy and Artificial Intelligence](https://cedar.ucdavis.edu/events/california-data-protection-and-privacy-day)</ins> at <ins>[CeDAR](https://cedar.ucdavis.edu/about)</ins>, UC Davis.
+* **Mar 3rd, 2023 :** Selected as a Mentor for <ins>[E-PRIME](https://engineering.ucdavis.edu/e-prime)</ins> Mentorship Program at UC Davis.
+* **Feb 23rd, 2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University (<ins>[CSI](https://scp.cc.gatech.edu/csi/)</ins>).
+* **Oct 5th, 2022 :** Attended <ins>[Ad-Filtering Dev Summit](https://adfilteringdevsummit.com)</ins> 2022.
+* **Jun 14th, 2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
+* **Nov 3rd, 2021 :** Attended <ins>[1st ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at UC Irvine.
+* **Sep 22nd, 2021 :** Started my Ph.D. at <ins>[UC Davis](https://www.ucdavis.edu)</ins>.
+
+
+<!--
+* **03/01/2024 :** Chairing the session on "Program Language Security on the Web" at [MADWeb 2024](https://madweb.work/program24/) in San Diego.
+* **01/01/2024 :** Serving on PC of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/). Consider submitting your research.
 * **11/08/2023 :** Serving on PC of [MADWeb 2024](https://madweb.work). Consider submitting your research.
 * **09/28/2023 :** My research on "Large-scale Audit of Compliance of Twitter's Advertising Policies" featured in [FastCompany](https://www.fastcompany.com/90959569/elon-musk-x-ignoring-ad-policies) ([Preprint](https://arxiv.org/pdf/2309.12591.pdf)).
 * **09/18/2023 :** Attended <ins>[3rd ProperData Symposium 2023](https://properdata.eng.uci.edu/2023/08/08/properdata-annual-symposium-2023/)</ins> at Northeastern University.
@@ -33,6 +52,7 @@ Updates
 * **06/14/2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
 * **11/03/2021 :** Attended <ins>[1st ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at UC Irvine.
 * **09/22/2021 :** Started my Ph.D. at <ins>[UC Davis](https://www.ucdavis.edu)</ins>.
+-->
 
 <!--
 * **05/16/2022 :** Attended <ins>[15th ACM WiSec 2022](https://wisec2022.cs.utsa.edu)</ins> at San Antonio, Texas.
