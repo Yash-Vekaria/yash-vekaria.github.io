@@ -19,6 +19,7 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 Updates
 ------
 
+* **Mar 13th, 2024 :** Received "GGCS PhD Fellowship 2024" ($10K)
 * **Mar 1st, 2024 :** Chairing the session on "Program Language Security on the Web" at <ins>[MADWeb 2024](https://madweb.work/program24/)</ins> in San Diego.
 * **Jan 1st, 2024 :** Serving on PC of <ins>[ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/)</ins>. Consider submitting your research.
 * **Nov 8th, 2023 :** Serving on PC of <ins>[MADWeb 2024](https://madweb.work)</ins>. Consider submitting your research.
