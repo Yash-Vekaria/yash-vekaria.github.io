@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd Year Ph.D. student in Computer Science Department at **University of California, Davis**. I am fortunate to be advised by Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I am also part of the [ProperData](https://properdata.eng.uci.edu) Research Group.
+I am a 3rd Year Ph.D. student in Computer Science Department at **University of California, Davis**. I am advised by Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I am also part of the [ProperData](https://properdata.eng.uci.edu) Research Group.
 
 I completed my Bachelors of Technology in Computer Science from **The LNM Institute of Information Technology, India** in 2020. My undergraduate advisor was Professor [Sakthi Balan](http://sakthibalan.in/). I was also briefly co-advised by Dr. [Nicolas Kourtellis](https://www.concordia-h2020.eu/nicolas-kourtellis/) and Professor [Nishanth Sastry](https://www.surrey.ac.uk/people/nishanth-sastry).
 
@@ -19,6 +19,7 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 Updates
 ------
 
+* **May 21st, 2024 :** Presented my research of ad-fraud "dark pooling" at IEEE S&P ("Oakland").
 * **Mar 13th, 2024 :** Received "GGCS PhD Fellowship 2024" ($10K)
 * **Mar 1st, 2024 :** Chairing the session on "Program Language Security on the Web" at <ins>[MADWeb 2024](https://madweb.work/program24/)</ins> in San Diego.
 * **Jan 1st, 2024 :** Serving on PC of <ins>[ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/)</ins>. Consider submitting your research.
@@ -82,13 +83,15 @@ Selected Publications
 _Accepted at IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
 [[PDF](http://yash-vekaria.github.io/files/oakland24_dark_pooling.pdf)] [[Code](https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement)]  [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
 
-**[Before Blue Birds Became X-tinct: Understanding the Effect of Regime Change on Twitter’s Advertising and Compliance of Advertising Policies](https://arxiv.org/pdf/2309.12591.pdf)**  
+<-- https://arxiv.org/pdf/2309.12591.pdf -->
+**[Auditing the Compliance and Enforcement of Twitter’s Advertising Policies](https://www.researchgate.net/publication/374233248_Auditing_the_Compliance_and_Enforcement_of_Twitter's_Advertising_Policies)**  
 **Yash Vekaria**, Zubair Shafiq, Savvas Zannettou <br>
 _Under Submission_ <br>
 [[PDF](https://arxiv.org/pdf/2309.12591.pdf)]
 
-
+<!--
 <p align="left">
 <script id="_wauo0t">var _wau = _wau || []; _wau.push(["small", "mbsr9jed4p", "o0t"]);</script><script async src="//waust.at/s.js"></script>
 <!-- <script id="_wauhz9">var _wau = _wau || []; _wau.push(["map", "vgzhvhrdc7", "hz9", "420", "210", "natural", "default-red"]);</script><script async src="//waust.at/m.js"></script> -->
 </p>
+-->
