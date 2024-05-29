@@ -83,13 +83,13 @@ Selected Publications
 _Accepted at IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
 [[PDF](http://yash-vekaria.github.io/files/oakland24_dark_pooling.pdf)] [[Code](https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement)]  [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
 
-<-- https://arxiv.org/pdf/2309.12591.pdf -->
 **[Auditing the Compliance and Enforcement of Twitter’s Advertising Policies](https://www.researchgate.net/publication/374233248_Auditing_the_Compliance_and_Enforcement_of_Twitter's_Advertising_Policies)**  
 **Yash Vekaria**, Zubair Shafiq, Savvas Zannettou <br>
 _Under Submission_ <br>
 [[PDF](https://arxiv.org/pdf/2309.12591.pdf)]
 
 <!--
+//https://arxiv.org/pdf/2309.12591.pdf
 <p align="left">
 <script id="_wauo0t">var _wau = _wau || []; _wau.push(["small", "mbsr9jed4p", "o0t"]);</script><script async src="//waust.at/s.js"></script>
 <!-- <script id="_wauhz9">var _wau = _wau || []; _wau.push(["map", "vgzhvhrdc7", "hz9", "420", "210", "natural", "default-red"]);</script><script async src="//waust.at/m.js"></script> -->
