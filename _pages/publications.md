@@ -10,7 +10,7 @@ author_profile: true
 _Accepted at IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
 [[PDF](http://yash-vekaria.github.io/files/oakland24_dark_pooling.pdf)] [[Code](https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement)]  [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
 
-**[Before Blue Birds Became X-tinct: Understanding the Effect of Regime Change on Twitter’s Advertising and Compliance of Advertising Policies](https://arxiv.org/pdf/2309.12591.pdf)**  
+**[Auditing the Compliance and Enforcement of Twitter’s Advertising Policies](https://www.researchgate.net/publication/374233248_Auditing_the_Compliance_and_Enforcement_of_Twitter's_Advertising_Policies)**  
 **Yash Vekaria**, Zubair Shafiq, Savvas Zannettou <br>
 _Under Submission_ <br>
 [[PDF](https://arxiv.org/pdf/2309.12591.pdf)]
