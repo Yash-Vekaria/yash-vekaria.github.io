@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+**[Turning the Tide on Dark Pools? Towards Multi-Stakeholder Vulnerability Notifications in the Ad-Tech Supply Chain](https://arxiv.org/abs/2406.06958)**  
+**Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
+_Under Submission_ <br>
+[[PDF](http://yash-vekaria.github.io/files/arxiv_notification_study.pdf)]
+
 **[The Inventory is Dark and Full of Misinformation: Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain](https://doi.org/10.48550/arXiv.2210.06654)**  
 **Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
 _Accepted at IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
