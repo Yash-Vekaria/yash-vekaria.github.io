@@ -19,9 +19,11 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 Updates
 ------
 
+* **Jul 17th, 2024 :** Invited for a talk on "Uncovering hidden security and privacy threats in online advertising" at <ins>[UCL](https://www.ucl.ac.uk)</ins>.
+* **Jul 17th, 2024 :** Presented poster for my research on "Tracking Pixels" at Privacy Enhancing Technologies Symposium (<ins>[PETS](https://petsymposium.org/2024/accepted-posters.php)</ins>) 2024.
 * **May 21st, 2024 :** Presented my research of ad-fraud "dark pooling" at IEEE S&P ("Oakland").
 * **Mar 13th, 2024 :** Received "GGCS PhD Fellowship 2024" ($10K)
-* **Mar 1st, 2024 :** Chairing the session on "Program Language Security on the Web" at <ins>[MADWeb 2024](https://madweb.work/program24/)</ins> in San Diego.
+* **Mar 1st, 2024 :** Chairing the session on "Program Language Security on the Web" at <ins>[MADWeb 2024].(https://madweb.work/program24/)</ins> in San Diego.
 * **Jan 1st, 2024 :** Serving on PC of <ins>[ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/)</ins>. Consider submitting your research.
 * **Nov 8th, 2023 :** Serving on PC of <ins>[MADWeb 2024](https://madweb.work)</ins>. Consider submitting your research.
 * **Sep 28th, 2023 :** My research on "Large-scale Audit of Compliance of Twitter's Advertising Policies" featured in <ins>[FastCompany](https://www.fastcompany.com/90959569/elon-musk-x-ignoring-ad-policies)</ins> (<ins>[Preprint](https://arxiv.org/pdf/2309.12591.pdf)</ins>).
