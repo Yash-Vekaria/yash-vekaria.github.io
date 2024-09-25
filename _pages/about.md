@@ -15,7 +15,6 @@ I completed my Bachelors of Technology in Computer Science from **The LNM Instit
 Broadly, my research interests include Security, Privacy and Applied Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques. I carry out web-based large-scale Internet measurements to study and improve the dynamics of web. Specifically, my current research is focused at studying and improving security, transparency, and privacy issues in the online advertising ecosystem. 
 <!-- It excites me to study and uncover issues in the ad-tech supply chain, click-fraud practices and other forms of ad-fraud to build a more private and safe advertising space for everyone. -->
 
-
 Updates
 ------
 * **Sep 24th, 2024 :** My research on "Automatic Content Recognition Tracking in Smart TVs" featured in <ins>[New Scientist](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)</ins> (<ins>[Preprint](https://arxiv.org/abs/2409.06203)</ins>).
@@ -54,7 +53,7 @@ Updates
 * **05/16/2023 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
 * **03/10/2023 :** Attended day event on <ins>[Responsible Innovation: Intersection of Privacy and Artificial Intelligence](https://cedar.ucdavis.edu/events/california-data-protection-and-privacy-day)</ins> at <ins>[CeDAR](https://cedar.ucdavis.edu/about)</ins>, UC Davis.
 * **03/03/2023 :** Selected as a Mentor for <ins>[E-PRIME](https://engineering.ucdavis.edu/e-prime)</ins> Mentorship Program at UC Davis.
-* **02/23/2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University (<ins>[CSI](https://scp.cc.gatech.edu/csi/)</ins>).
+* **02/23/2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech (<ins>[CSI](https://scp.cc.gatech.edu/csi/)</ins>).
 * **10/05/2022 :** Attended <ins>[Ad-Filtering Dev Summit](https://adfilteringdevsummit.com)</ins> 2022.
 * **06/14/2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
 * **11/03/2021 :** Attended <ins>[1st ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at UC Irvine.
