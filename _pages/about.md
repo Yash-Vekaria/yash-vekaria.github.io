@@ -18,7 +18,7 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 
 Updates
 ------
-* **Sep 25th, 2023 :** My research on "Automatic Content Recognition Tracking in Smart TVs" featured in <ins>[New Scientist](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)</ins> (<ins>[Preprint](https://arxiv.org/abs/2409.06203)</ins>).
+* **Sep 25th, 2024 :** My research on "Automatic Content Recognition Tracking in Smart TVs" featured in <ins>[New Scientist](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)</ins> (<ins>[Preprint](https://arxiv.org/abs/2409.06203)</ins>).
 * **Aug 21st, 2024 :** Serving on PC of <ins>[USENIX 2025](https://www.usenix.org/conference/usenixsecurity25)</ins>. Consider submitting your research.
 * **Jul 17th, 2024 :** Invited for a talk on "Uncovering hidden security and privacy threats in online advertising" at <ins>[UCL](https://www.ucl.ac.uk)</ins>.
 * **Jul 17th, 2024 :** Presented poster for my research on "Tracking Pixels" at Privacy Enhancing Technologies Symposium (<ins>[PETS](https://petsymposium.org/2024/accepted-posters.php)</ins>) 2024.
@@ -27,7 +27,7 @@ Updates
 * **Mar 1st, 2024 :** Chairing the session on "Program Language Security on the Web" at <ins>[MADWeb 2024](https://madweb.work/program24/)</ins> in San Diego.
 * **Jan 1st, 2024 :** Serving on PC of <ins>[ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/)</ins>. Consider submitting your research.
 * **Nov 8th, 2023 :** Serving on PC of <ins>[MADWeb 2024](https://madweb.work)</ins>. Consider submitting your research.
-* **Sep 28th, 2023 :** My research on "Large-scale Audit of Compliance of Twitter's Advertising Policies" featured in <ins>[FastCompany](https://www.fastcompany.com/90959569/elon-musk-x-ignoring-ad-policies)</ins> (<ins>[Preprint](https://arxiv.org/pdf/2309.12591.pdf)</ins>).
+* **Sep 28th, 2023 :** My research on "Auditing Compliance of Twitter's Advertising Policies" featured in <ins>[FastCompany](https://www.fastcompany.com/90959569/elon-musk-x-ignoring-ad-policies)</ins> (<ins>[Preprint](https://arxiv.org/pdf/2309.12591.pdf)</ins>).
 * **Sep 18th, 2023 :** Attended <ins>[3rd ProperData Symposium 2023](https://properdata.eng.uci.edu/2023/08/08/properdata-annual-symposium-2023/)</ins> at Northeastern University.
 * **Jul 10th, 2023 :** My paper accepted to IEEE S&P ("Oakland") 2024.
 * **May 16th, 2023 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
