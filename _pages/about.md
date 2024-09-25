@@ -30,7 +30,7 @@ Updates
 * **Sep 28th, 2023 :** My research on "Auditing Compliance of Twitter's Advertising Policies" featured in <ins>[FastCompany](https://www.fastcompany.com/90959569/elon-musk-x-ignoring-ad-policies)</ins> (<ins>[Preprint](https://arxiv.org/pdf/2309.12591.pdf)</ins>).
 * **Sep 18th, 2023 :** Attended <ins>[3rd ProperData Symposium 2023](https://properdata.eng.uci.edu/2023/08/08/properdata-annual-symposium-2023/)</ins> at Northeastern University.
 * **Jul 10th, 2023 :** My paper accepted to IEEE S&P ("Oakland") 2024.
-* **May 16th, 2023 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
+* **May 16th, 2023 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
 * **Feb 23rd, 2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University (<ins>[CSI](https://scp.cc.gatech.edu/csi/)</ins>).
 * **Sep 22nd, 2021 :** Started my Ph.D. at <ins>[UC Davis](https://www.ucdavis.edu)</ins>.
 
