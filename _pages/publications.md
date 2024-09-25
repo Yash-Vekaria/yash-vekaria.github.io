@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **[Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/abs/2409.06203)**  
-Gianluca Anselmi*, **Yash Vekaria***, Alexander D'Souza, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq (*co first-authors)<br>
+Gianluca Anselmi*, **Yash Vekaria***, Alexander D'Souza, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq (*joint first-authors)<br>
 _24th ACM Internet Measurement Conference (IMC), 2024_ <br>
 [[PDF](http://yash-vekaria.github.io/files/imc24-smart-tv-acr-tracking.pdf)] [[Code](https://github.com/SafeNetIoT/ACR)] [[Dataset](https://drive.google.com/drive/folders/1cqK2IJ6h-t92XyKy93zZ2NT2NxrXS_Nz?usp=share_link)]
 
