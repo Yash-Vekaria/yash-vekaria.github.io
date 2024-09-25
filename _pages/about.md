@@ -18,7 +18,7 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 
 Updates
 ------
-* **Sep 25th, 2024 :** My research on "Automatic Content Recognition Tracking in Smart TVs" featured in <ins>[New Scientist](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)</ins> (<ins>[Preprint](https://arxiv.org/abs/2409.06203)</ins>).
+* **Sep 24th, 2024 :** My research on "Automatic Content Recognition Tracking in Smart TVs" featured in <ins>[New Scientist](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)</ins> (<ins>[Preprint](https://arxiv.org/abs/2409.06203)</ins>).
 * **Aug 21st, 2024 :** Serving on PC of <ins>[USENIX 2025](https://www.usenix.org/conference/usenixsecurity25)</ins>. Consider submitting your research.
 * **Jul 17th, 2024 :** Invited for a talk on "Uncovering hidden security and privacy threats in online advertising" at <ins>[UCL](https://www.ucl.ac.uk)</ins>.
 * **Jul 17th, 2024 :** Presented poster for my research on "Tracking Pixels" at Privacy Enhancing Technologies Symposium (<ins>[PETS](https://petsymposium.org/2024/accepted-posters.php)</ins>) 2024.
