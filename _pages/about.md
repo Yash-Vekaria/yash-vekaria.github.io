@@ -18,7 +18,8 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 
 Updates
 ------
-
+* **Sep 25th, 2023 :** My research on "Automatic Content Recognition Tracking in Smart TVs" featured in <ins>[New Scientist](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)</ins> (<ins>[Preprint](https://arxiv.org/abs/2409.06203)</ins>).
+* **Aug 21st, 2024 :** Serving on PC of <ins>[USENIX 2025](https://www.usenix.org/conference/usenixsecurity25)</ins>. Consider submitting your research.
 * **Jul 17th, 2024 :** Invited for a talk on "Uncovering hidden security and privacy threats in online advertising" at <ins>[UCL](https://www.ucl.ac.uk)</ins>.
 * **Jul 17th, 2024 :** Presented poster for my research on "Tracking Pixels" at Privacy Enhancing Technologies Symposium (<ins>[PETS](https://petsymposium.org/2024/accepted-posters.php)</ins>) 2024.
 * **May 21st, 2024 :** Presented my research of ad-fraud "dark pooling" at IEEE S&P ("Oakland").
@@ -29,16 +30,18 @@ Updates
 * **Sep 28th, 2023 :** My research on "Large-scale Audit of Compliance of Twitter's Advertising Policies" featured in <ins>[FastCompany](https://www.fastcompany.com/90959569/elon-musk-x-ignoring-ad-policies)</ins> (<ins>[Preprint](https://arxiv.org/pdf/2309.12591.pdf)</ins>).
 * **Sep 18th, 2023 :** Attended <ins>[3rd ProperData Symposium 2023](https://properdata.eng.uci.edu/2023/08/08/properdata-annual-symposium-2023/)</ins> at Northeastern University.
 * **Jul 10th, 2023 :** My paper accepted to IEEE S&P ("Oakland") 2024.
-* **May 16th, 2023 :** Started summer school at <ins>[Cybersecurity Summer Institute](https://scp.cc.gatech.edu/csi/)</ins> (CSI, GeorgiaTech)
 * **May 16th, 2023 :** Gave a talk: "Be Aware: Dark Pooling Uncovered" at advertising industry conference: <ins>[AdExchanger's Programmatic I/O](https://www.adexchanger.com/go/programmatic-i-o-2023-las-vegas/)</ins> at MGM Las Vegas. 
-* **Mar 10th, 2023 :** Attended day event on <ins>[Responsible Innovation: Intersection of Privacy and Artificial Intelligence](https://cedar.ucdavis.edu/events/california-data-protection-and-privacy-day)</ins> at <ins>[CeDAR](https://cedar.ucdavis.edu/about)</ins>, UC Davis.
-* **Mar 3rd, 2023 :** Selected as a Mentor for <ins>[E-PRIME](https://engineering.ucdavis.edu/e-prime)</ins> Mentorship Program at UC Davis.
 * **Feb 23rd, 2023 :** Selected as a Cybersecurity Summer Fellow at Georgia Tech University (<ins>[CSI](https://scp.cc.gatech.edu/csi/)</ins>).
-* **Oct 5th, 2022 :** Attended <ins>[Ad-Filtering Dev Summit](https://adfilteringdevsummit.com)</ins> 2022.
-* **Jun 14th, 2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
-* **Nov 3rd, 2021 :** Attended <ins>[1st ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at UC Irvine.
 * **Sep 22nd, 2021 :** Started my Ph.D. at <ins>[UC Davis](https://www.ucdavis.edu)</ins>.
 
+<!--
+* **May 16th, 2023 :** Started summer school at <ins>[Cybersecurity Summer Institute](https://scp.cc.gatech.edu/csi/)</ins> (CSI, GeorgiaTech)
+* **Mar 10th, 2023 :** Attended day event on <ins>[Responsible Innovation: Intersection of Privacy and Artificial Intelligence](https://cedar.ucdavis.edu/events/california-data-protection-and-privacy-day)</ins> at <ins>[CeDAR](https://cedar.ucdavis.edu/about)</ins>, UC Davis.
+* **Mar 3rd, 2023 :** Selected as a Mentor for <ins>[E-PRIME](https://engineering.ucdavis.edu/e-prime)</ins> Mentorship Program at UC Davis.
+* **Oct 5th, 2022 :** Attended <ins>[Ad-Filtering Dev Summit](https://adfilteringdevsummit.com)</ins> 2022.
+* **Nov 3rd, 2021 :** Attended <ins>[1st ProperData Symposium 2021](https://properdata.eng.uci.edu/2021/07/08/properdata-annual-symposium-2021/)</ins> at UC Irvine.
+* **Jun 14th, 2022 :** Started my Summer Internship at <ins>[Max Planck Institute for Informatics (MPI-INF), Germany](https://www.mpi-inf.mpg.de/home/)</ins> under <ins>[Prof. Savvas Zannettou](https://zsavvas.github.io)</ins>.
+-->
 
 <!--
 * **03/01/2024 :** Chairing the session on "Program Language Security on the Web" at [MADWeb 2024](https://madweb.work/program24/) in San Diego.
@@ -80,20 +83,15 @@ Updates
 Selected Publications
 ------
 
-**[Turning the Tide on Dark Pools? Towards Multi-Stakeholder Vulnerability Notifications in the Ad-Tech Supply Chain](https://arxiv.org/abs/2406.06958)**  
-**Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
-_Under Submission_ <br>
-[[PDF](http://yash-vekaria.github.io/files/arxiv_notification_study.pdf)]
+**[Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/abs/2409.06203)**  
+Gianluca Anselmi*, **Yash Vekaria***, Alexander D'Souza, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq (*co first-authors)<br>
+_24th ACM Internet Measurement Conference (IMC), 2024_ <br>
+[[PDF](http://yash-vekaria.github.io/files/imc24-smart-tv-acr-tracking.pdf)] [[Code](https://github.com/SafeNetIoT/ACR)] [[Dataset](https://drive.google.com/drive/folders/1cqK2IJ6h-t92XyKy93zZ2NT2NxrXS_Nz?usp=share_link)]
 
 **[The Inventory is Dark and Full of Misinformation: Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain](https://doi.org/10.48550/arXiv.2210.06654)**  
 **Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
 _Accepted at IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
 [[PDF](http://yash-vekaria.github.io/files/oakland24_dark_pooling.pdf)] [[Video](https://www.youtube.com/watch?v=_yIlCzKRT4E)] [[Code](https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement)] [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
-
-**[Auditing the Compliance and Enforcement of Twitter’s Advertising Policies](https://www.researchgate.net/publication/374233248_Auditing_the_Compliance_and_Enforcement_of_Twitter's_Advertising_Policies)**  
-**Yash Vekaria**, Zubair Shafiq, Savvas Zannettou <br>
-_Under Submission_ <br>
-[[PDF](https://arxiv.org/pdf/2309.12591.pdf)]
 
 <!-- 
 //https://arxiv.org/pdf/2309.12591.pdf
