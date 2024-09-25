@@ -18,6 +18,14 @@ Advisor: [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)
 <hr>
 <p></p>
 
+**Jun 2024 - Aug 2024:**\
+**_[Quantcast, San Francisco (USA)](https://www.quantcast.com/)_**\
+_Software Engineering Intern_
+
+<p></p>
+<hr>
+<p></p>
+
 **Jun 2022 - Sept 2022:**\
 **_[Max Planck Institute für Informatik (MPI-INF), Saarbrücken (Germany)](https://www.mpi-inf.mpg.de/home/)_**\
 _Visiting Research Fellow (Internet Architecture (INET) Group)_\
