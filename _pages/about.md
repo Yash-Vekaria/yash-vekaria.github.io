@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd Year Ph.D. student in Computer Science Department at **University of California, Davis**. I am advised by Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I'm also part of the [ProperData](https://properdata.eng.uci.edu) Research Group.
+I am a 3rd Year Ph.D. student in Computer Science at **University of California, Davis**. I am advised by Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I'm also part of the [ProperData](https://properdata.eng.uci.edu) Research Group.
 
 I completed my Bachelors of Technology in Computer Science from **The LNM Institute of Information Technology, India** in 2020. My undergraduate advisor was Professor [Sakthi Balan](http://sakthibalan.in/). I was also briefly co-advised by Dr. [Nicolas Kourtellis](https://www.concordia-h2020.eu/nicolas-kourtellis/) and Professor [Nishanth Sastry](https://www.surrey.ac.uk/people/nishanth-sastry).
 
