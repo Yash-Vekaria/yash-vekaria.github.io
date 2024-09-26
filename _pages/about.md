@@ -21,7 +21,7 @@ Updates
 * **Aug 21st, 2024 :** Serving on PC of <ins>[USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)</ins>. Consider submitting your research.
 * **Jul 17th, 2024 :** Invited for a talk on "Uncovering hidden security and privacy threats in online advertising" at <ins>[UCL](https://www.ucl.ac.uk)</ins>.
 * **Jul 17th, 2024 :** Presented poster for my research on "Tracking Pixels" at Privacy Enhancing Technologies Symposium (<ins>[PETS](https://petsymposium.org/2024/accepted-posters.php)</ins>) 2024.
-* **May 21st, 2024 :** Presented my research of ad-fraud "dark pooling" at IEEE S&P ("Oakland").
+* **May 21st, 2024 :** Presented my research on ad-fraud "dark pooling" at IEEE S&P ("Oakland").
 * **Mar 13th, 2024 :** Received "GGCS PhD Fellowship 2024" ($10K)
 * **Mar 1st, 2024 :** Chairing the session on "Program Language Security on the Web" at <ins>[MADWeb 2024](https://madweb.work/program24/)</ins> in San Diego.
 * **Jan 1st, 2024 :** Serving on PC of <ins>[ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/)</ins>. Consider submitting your research.
