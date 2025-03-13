@@ -19,13 +19,13 @@ _Social Media + Society, 2025_ <br>
 Gianluca Anselmi*, **Yash Vekaria***, Alexander D'Souza, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq \
 (*joint first-authors)<br>
 _24th ACM Internet Measurement Conference (IMC), 2024_ <br>
-(Acceptance Rate: 21.73% [55/253])
+<ins>Acceptance Rate</ins>: 21.73% [55/253] <br>
 [[PDF](http://yash-vekaria.github.io/files/imc24-smart-tv-acr-tracking.pdf)] [[Code](https://github.com/SafeNetIoT/ACR)] [[Dataset](https://drive.google.com/drive/folders/1cqK2IJ6h-t92XyKy93zZ2NT2NxrXS_Nz?usp=share_link)]
 
 **[The Inventory is Dark and Full of Misinformation: Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain](https://doi.org/10.48550/arXiv.2210.06654)**  
 **Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
 _45th IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
-(Acceptance Rate: 17.8% [261/1463])
+<ins>Acceptance Rate</ins>: 17.8% [261/1463] <br>
 [[PDF](http://yash-vekaria.github.io/files/oakland24_dark_pooling.pdf)] [[Video](https://www.youtube.com/watch?v=_yIlCzKRT4E)] [[Code](https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement)] [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
 
 **[Turning the Tide on Dark Pools? Towards Multi-Stakeholder Vulnerability Notifications in the Ad-Tech Supply Chain](https://arxiv.org/abs/2406.06958)**  
@@ -41,7 +41,7 @@ _13th ACM Web Science Conference (Virtual), 2021_ <br>
 **[Under the Spotlight: Web Tracking in Indian Partisan News Websites](https://ojs.aaai.org/index.php/ICWSM/article/view/18038)**  
 Vibhor Agarwal, **Yash Vekaria**, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis <br>
 _15th International AAAI Conference on Web and Social Media (Virtual), 2021_ <br>
-(Acceptance Rate: 22.4% [30/134])
+<ins>Acceptance Rate</ins>: 22.4% [30/134] <br>
 [[PDF](http://yash-vekaria.github.io/files/icwsm21_under_spotlight.pdf)] [[Code](https://github.com/Yash-Vekaria/Web-Tracking-in-Indian-Partisan-News-Websites)] [[Dataset](https://nms.kcl.ac.uk/netsys/datasets/india-tracking/)]
 
 **[A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data](https://link.springer.com/chapter/10.1007%2F978-3-030-75018-3_47)**  
