@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd Year Ph.D. student in Computer Science at **University of California, Davis**. I am advised by Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I'm also part of the [ProperData](https://properdata.eng.uci.edu) Research Group.
+I am a 4th Year Ph.D. student in Computer Science at **University of California, Davis**. I am advised by Professor [**Zubair Shafiq**](https://web.cs.ucdavis.edu/~zubair/). I'm also part of the [ProperData](https://properdata.eng.uci.edu) Research Group.
 
 I completed my Bachelors of Technology in Computer Science from **The LNM Institute of Information Technology, India** in 2020. My undergraduate advisor was Professor [Sakthi Balan](http://sakthibalan.in/). I was also briefly co-advised by Dr. [Nicolas Kourtellis](https://www.concordia-h2020.eu/nicolas-kourtellis/) and Professor [Nishanth Sastry](https://www.surrey.ac.uk/people/nishanth-sastry).
 
@@ -17,7 +17,7 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 
 Updates
 ------
-* **Sep 24th, 2024 :** My research on "Automatic Content Recognition Tracking in Smart TVs" featured in <ins>[New Scientist](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)</ins> (<ins>[Preprint](https://arxiv.org/abs/2409.06203)</ins>).
+* **Sep 24th, 2024 :** My research on "Automatic Content Recognition Tracking in Smart TVs" featured in [<ins>[New Scientist](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)</ins>] [<ins>[The Times](https://www.thetimes.com/article/25e3661b-7acd-4e49-b3d9-b73e165a55b7)</ins>] [<ins>[UC Davis](https://www.ucdavis.edu/news/your-smart-tv-watching-what-you-watch)</ins>] [<ins>[UCL News](https://www.ucl.ac.uk/news/2024/nov/smart-tv-tracking-raises-privacy-concerns)</ins>] (<ins>[Preprint](https://arxiv.org/abs/2409.06203)</ins>).
 * **Aug 21st, 2024 :** Serving on PC of <ins>[USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)</ins>. Consider submitting your research.
 * **Jul 17th, 2024 :** Invited for a talk on "Uncovering hidden security and privacy threats in online advertising" at <ins>[UCL](https://www.ucl.ac.uk)</ins>.
 * **Jul 17th, 2024 :** Presented poster for my research on "Tracking Pixels" at Privacy Enhancing Technologies Symposium (<ins>[PETS](https://petsymposium.org/2024/accepted-posters.php)</ins>) 2024.
@@ -81,6 +81,11 @@ Updates
 
 Selected Publications
 ------
+
+**[Big Help or Big Brother? Auditing Tracking, Profiling, and Personalization in Generative AI Assistants](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)**  
+**Yash Vekaria***, Aurelio Loris Canino, Jonathan Levitsky, Alex Ciechonski, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq <br>
+_Under Submission_ <br>
+[[PDF](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)] [[Code](https://anonymous.4open.science/r/gen-ai-privacy-audit-1C72/README.md))]
 
 **[Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/abs/2409.06203)**  
 Gianluca Anselmi*, **Yash Vekaria***, Alexander D'Souza, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq (*joint first-authors)<br>
