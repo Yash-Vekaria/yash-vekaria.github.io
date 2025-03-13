@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Big Help or Big Brother? Auditing Tracking, Profiling, and Personalization in Generative AI Assistants**  
+**Yash Vekaria***, Aurelio Loris Canino, Jonathan Levitsky, Alex Ciechonski, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq <br>
+_Under Submission_ <br>
+[[PDF](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)] [[Code](https://anonymous.4open.science/r/gen-ai-privacy-audit-1C72/README.md))]
+
+**[Auditing the Compliance and Enforcement of Twitter’s Advertising Policy](https://doi.org/10.1177/20563051251319675)**  
+**Yash Vekaria**, Zubair Shafiq, Savvas Zannettou <br>
+_Social Media + Society, 2025_ <br>
+[[PDF](https://doi.org/10.1177/20563051251319675)]
+
 **[Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/abs/2409.06203)**  
 Gianluca Anselmi*, **Yash Vekaria***, Alexander D'Souza, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq \
 (*joint first-authors)<br>
@@ -20,11 +30,6 @@ _45th IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
 **Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
 _Under Submission_ <br>
 [[PDF](http://yash-vekaria.github.io/files/arxiv_notification_study.pdf)]
-
-**[Auditing the Compliance and Enforcement of Twitter’s Advertising Policies](https://www.researchgate.net/publication/374233248_Auditing_the_Compliance_and_Enforcement_of_Twitter's_Advertising_Policies)**  
-**Yash Vekaria**, Zubair Shafiq, Savvas Zannettou <br>
-_Under Submission_ <br>
-[[PDF](https://arxiv.org/pdf/2309.12591.pdf)]
 
 **[Differential Tracking Across Topical Webpages of Indian News Media](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
 **Yash Vekaria**, Vibhor Agarwal, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis <br>
