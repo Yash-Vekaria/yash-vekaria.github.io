@@ -92,11 +92,13 @@ _Under Submission_ <br>
 **[Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/abs/2409.06203)**  
 Gianluca Anselmi*, **Yash Vekaria***, Alexander D'Souza, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq (*joint first-authors)<br>
 _24th ACM Internet Measurement Conference (IMC), 2024_ <br>
+<ins>Acceptance Rate</ins>: 21.73% (55/253) <br>
 [[PDF](http://yash-vekaria.github.io/files/imc24-smart-tv-acr-tracking.pdf)] [[Code](https://github.com/SafeNetIoT/ACR)] [[Dataset](https://drive.google.com/drive/folders/1cqK2IJ6h-t92XyKy93zZ2NT2NxrXS_Nz?usp=share_link)]
 
 **[The Inventory is Dark and Full of Misinformation: Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain](https://doi.org/10.48550/arXiv.2210.06654)**  
 **Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
 _Accepted at IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
+<ins>Acceptance Rate</ins>: 17.8% (261/1463) <br>
 [[PDF](http://yash-vekaria.github.io/files/oakland24_dark_pooling.pdf)] [[Video](https://www.youtube.com/watch?v=_yIlCzKRT4E)] [[Code](https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement)] [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
 
 <!-- 
