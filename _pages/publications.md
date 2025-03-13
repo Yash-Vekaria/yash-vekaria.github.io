@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Big Help or Big Brother? Auditing Tracking, Profiling, and Personalization in Generative AI Assistants**  
+**[Big Help or Big Brother? Auditing Tracking, Profiling, and Personalization in Generative AI Assistants](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)**  
 **Yash Vekaria***, Aurelio Loris Canino, Jonathan Levitsky, Alex Ciechonski, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq <br>
 _Under Submission_ <br>
 [[PDF](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)] [[Code](https://anonymous.4open.science/r/gen-ai-privacy-audit-1C72/README.md))]
