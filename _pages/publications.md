@@ -13,7 +13,7 @@ _Under Submission_ <br>
 **[Auditing the Compliance and Enforcement of Twitter’s Advertising Policy](https://doi.org/10.1177/20563051251319675)**  
 **Yash Vekaria**, Zubair Shafiq, Savvas Zannettou <br>
 _Social Media + Society, 2025_ <br>
-[[PDF](https://doi.org/10.1177/20563051251319675)]
+[[PDF](https://doi.org/10.1177/20563051251319675)] [[Dataset](https://osf.io/sk8r2/?view_only=e2d1f424eebb43b0b95496536f828ffb)]
 
 **[Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/abs/2409.06203)**  
 Gianluca Anselmi*, **Yash Vekaria***, Alexander D'Souza, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq \
