@@ -18,6 +18,7 @@ Broadly, my research interests include Security, Privacy and Applied Machine Lea
 Updates
 ------
 * **Jun 5th, 2025 :** My paper accepted to USENIX Security 2025.
+* **Jun 4th, 2025 :** Presented my poster "Tracking Pixels" at Google Ads Privacy Symposium 2025 (Mountain View).
 * **May 26th, 2025 :** Serving on PC of <ins>[PETS 2026](https://petsymposium.org/cfp26.php)</ins>. Consider submitting your research.
 * **Mar 3rd, 2025 :** My research on "Tracking, Profiling, and Personalization in Generative AI Assistants" featured in <ins>[The Register](https://www.theregister.com/2025/03/25/generative_ai_browser_extensions_privacy/)</ins> (<ins>[Paper](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)</ins>).
 * **Nov 26th, 2024 :** Passed my Ph.D. Qualification Examination (QE)
