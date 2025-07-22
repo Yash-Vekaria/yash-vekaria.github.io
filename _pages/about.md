@@ -12,13 +12,14 @@ I am a 4th Year Ph.D. student in Computer Science at **University of California,
 
 I completed my Bachelors of Technology in Computer Science from **The LNM Institute of Information Technology, India** in 2020. My undergraduate advisor was Professor [Sakthi Balan](http://sakthibalan.in/). I was also briefly co-advised by Dr. [Nicolas Kourtellis](https://www.concordia-h2020.eu/nicolas-kourtellis/) and Professor [Nishanth Sastry](https://www.surrey.ac.uk/people/nishanth-sastry).
 
-Broadly, my research interests include Security, Privacy and Applied Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques. I carry out web-based large-scale Internet measurements to study and improve the dynamics of web. Specifically, my current research is focused at studying and improving security, transparency, and privacy issues in the online advertising ecosystem. 
+Broadly, my research interests include Security, Privacy and Applied Machine Learning. My focus is towards making our web more secure and private with the use of ML-based techniques. I carry out web-based large-scale Internet measurements to study and improve the dynamics of web. Specifically, my current research consists of two directions -- one focused at studying and improving security, transparency, and privacy issues in the online advertising and tracking ecosystem, and the other at the intersection of AI and privacy. 
 <!-- It excites me to study and uncover issues in the ad-tech supply chain, click-fraud practices and other forms of ad-fraud to build a more private and safe advertising space for everyone. -->
 
 Updates
 ------
+* **Jul 22nd, 2025 :** Attended PETS 2025 in Washington D.C.
 * **Jun 5th, 2025 :** My paper accepted to USENIX Security 2025.
-* **Jun 4th, 2025 :** Presented my poster "Tracking Pixels" at Google Ads Privacy Symposium 2025 (Mountain View).
+* **Jun 4th, 2025 :** Presented my poster on "Tracking Pixels" at Google Ads Privacy Symposium 2025 (Mountain View).
 * **May 26th, 2025 :** Serving on PC of <ins>[PETS 2026](https://petsymposium.org/cfp26.php)</ins>. Consider submitting your research.
 * **Mar 3rd, 2025 :** My research on "Tracking, Profiling, and Personalization in Generative AI Assistants" featured in <ins>[The Register](https://www.theregister.com/2025/03/25/generative_ai_browser_extensions_privacy/)</ins> (<ins>[Paper](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)</ins>).
 * **Nov 26th, 2024 :** Passed my Ph.D. Qualification Examination (QE)
