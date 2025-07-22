@@ -14,7 +14,7 @@ _Under Submission_ <br>
 _Under Submission_ <br>
 [[PDF](https://arxiv.org/pdf/2506.14057)]
 
-**[Turning the Tide on Dark Pools? Towards Multi-Stakeholder Vulnerability Notifications in the Ad-Tech Supply Chain](https://arxiv.org/abs/2406.06958)**  
+**[Towards Multi-Stakeholder Vulnerability Notifications in the Ad-Tech Supply Chain](https://arxiv.org/abs/2406.06958)**  
 **Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
 _Under Submission_ <br>
 [[PDF](http://yash-vekaria.github.io/files/arxiv_notification_study.pdf)]
