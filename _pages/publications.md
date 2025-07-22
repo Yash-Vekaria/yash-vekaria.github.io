@@ -5,9 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-**[Big Help or Big Brother? Auditing Tracking, Profiling, and Personalization in Generative AI Assistants](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)**  
-**Yash Vekaria**, Aurelio Loris Canino, Jonathan Levitsky, Alex Ciechonski, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq <br>
+**[PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations]()**  
+Abdullah Ghani, **Yash Vekaria**, Zubair Shafiq <br>
 _Under Submission_ <br>
+
+**[SoK: Advances and Open Problems in Web Tracking](https://arxiv.org/abs/2506.14057)**  
+**Yash Vekaria**, Yohan Beugin, Shaoor Munir, Gunes Acar, Nataliia Bielova, Steven Englehardt, Umar Iqbal, Alexandros Kapravelos, Pierre Laperdrix, Nick Nikiforakis, Jason Polakis, Franziska Roesner, Zubair Shafiq, Sebastian Zimmeck <br>
+_Under Submission_ <br>
+[[PDF](https://arxiv.org/pdf/2506.14057)]
+
+**[Turning the Tide on Dark Pools? Towards Multi-Stakeholder Vulnerability Notifications in the Ad-Tech Supply Chain](https://arxiv.org/abs/2406.06958)**  
+**Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
+_Under Submission_ <br>
+[[PDF](http://yash-vekaria.github.io/files/arxiv_notification_study.pdf)]
+
+**[Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy]()**  
+Chen Sun, **Yash Vekaria**, Zubair Shafiq, Rishab Nithyanand <br>
+_Under Submission_ <br>
+
+**[Big Help or Big Brother? Auditing Tracking, Profiling, and Personalization in Generative AI Assistants](https://www.usenix.org/conference/usenixsecurity25/presentation/vekaria)**  
+**Yash Vekaria**, Aurelio Loris Canino, Jonathan Levitsky, Alex Ciechonski, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq <br>
+_34th USENIX Security Symposium, 2025_ <br>
+<ins>Acceptance Rate</ins>: 19.0% (456/2400) <br>
 [[PDF](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)] [[Code](https://anonymous.4open.science/r/gen-ai-privacy-audit-1C72/README.md)]
 
 **[Auditing the Compliance and Enforcement of Twitter’s Advertising Policy](https://doi.org/10.1177/20563051251319675)**  
@@ -27,11 +46,6 @@ _24th ACM Internet Measurement Conference (IMC), 2024_ <br>
 _45th IEEE Symposium on Security & Privacy (Oakland), 2024_ <br>
 <ins>Acceptance Rate</ins>: 17.8% (261/1463) <br>
 [[PDF](http://yash-vekaria.github.io/files/oakland24_dark_pooling.pdf)] [[Video](https://www.youtube.com/watch?v=_yIlCzKRT4E)] [[Code](https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement)] [[Dataset](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)]
-
-**[Turning the Tide on Dark Pools? Towards Multi-Stakeholder Vulnerability Notifications in the Ad-Tech Supply Chain](https://arxiv.org/abs/2406.06958)**  
-**Yash Vekaria**, Rishab Nithyanand, Zubair Shafiq <br>
-_Under Submission_ <br>
-[[PDF](http://yash-vekaria.github.io/files/arxiv_notification_study.pdf)]
 
 **[Differential Tracking Across Topical Webpages of Indian News Media](https://dl.acm.org/doi/abs/10.1145/3447535.3462497)**  
 **Yash Vekaria**, Vibhor Agarwal, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, Nicolas Kourtellis <br>
