@@ -89,9 +89,10 @@ Updates
 Selected Publications
 ------
 
-**[Big Help or Big Brother? Auditing Tracking, Profiling, and Personalization in Generative AI Assistants](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)**  
+**[Big Help or Big Brother? Auditing Tracking, Profiling, and Personalization in Generative AI Assistants](https://www.usenix.org/conference/usenixsecurity25/presentation/vekaria)**  
 **Yash Vekaria**, Aurelio Loris Canino, Jonathan Levitsky, Alex Ciechonski, Patricia Callejo, Anna Maria Mandalari, Zubair Shafiq <br>
-_Under Submission_ <br>
+_34th USENIX Security Symposium, 2025_ <br>
+<ins>Acceptance Rate</ins>: 19.0% (456/2400) <br>
 [[PDF](http://yash-vekaria.github.io/files/arxiv25-genai-browser-assistants.pdf)] [[Code](https://anonymous.4open.science/r/gen-ai-privacy-audit-1C72/README.md)]
 
 **[Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/abs/2409.06203)**  
